@@ -1,0 +1,144 @@
+<style>
+</style>
+<style>
+    .container{
+        background-image: url("https://thumbs.dreamstime.com/b/helping-hands-abstract-design-isolated-white-background-53157679.jpg");
+        border: 10px  solid red;
+        height: 175px;
+        width: 315px;
+        margin: 24px 545px 54px;
+        position: relative;
+        top: -372px;
+        padding: 79px;
+        text-align: center;
+        border-radius: 31px;
+        left: 308px;
+    }
+    button{
+        position: relative;
+        top: -36px;
+        left: -21px;
+    }
+    img{
+        position: relative;
+        top: 10px;
+        left: -21px;
+        height: 267px;
+        width: 451px;
+        background-size: contain;
+        border: 6px solid black;
+        border-radius: 30px;
+    }
+    body{
+        background-image: url("https://media.istockphoto.com/id/1456109827/photo/man-is-giving-helping-hand-silhouettes-of-people-climbing-on-mountain-at-sunset-help-and.webp?b=1&s=170667a&w=0&k=20&c=-mPflvF7OC21yWrAPQHlOHOF-Uyq91FXgq9CooaAj0o=");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 50px;
+        height: 1015px;
+        animation: slider 15s linear infinite;
+    }
+    @keyframes slider{
+        0%{background-image: url("https://media.istockphoto.com/id/1456109827/photo/man-is-giving-helping-hand-silhouettes-of-people-climbing-on-mountain-at-sunset-help-and.webp?b=1&s=170667a&w=0&k=20&c=-mPflvF7OC21yWrAPQHlOHOF-Uyq91FXgq9CooaAj0o=");}
+        35%{background-image: url("https://i.pinimg.com/originals/cf/a2/ff/cfa2ff2715dc44a03b2b203db02a81ff.jpg");}
+        75%{background-image: url("https://images.newindianexpress.com/uploads/user/imagelibrary/2020/4/19/w1200X800/NGOs_helping.jpg");}
+        95%{background-image: url("https://th-i.thgim.com/public/news/cities/chennai/wyoek1/article31192582.ece/alternates/FREE_1200/30MPYUVANGO1");}
+    }
+    .loc{
+        position: relative;
+        top: 50px;
+        left: 40px;
+    }
+    .bil{
+        background-color: gray;
+        color: white;
+        position: relative;
+        top: 103px;
+        left: -952px;
+        height: 404px;
+        width: 1553px;
+    }
+    .jio{
+        position: relative;
+        top: 50px;
+        left: 60px;
+        color: white;
+    }
+    li{
+        float: right;
+        margin: 6px;
+        position: relative;
+        top: -466px;
+        color: white;
+        list-style: none;
+         left: 209px;
+         font-size: 28px;    
+    }
+    a{
+        color: black;
+        text-decoration: none;
+        list-style: none;
+    }
+</style>
+    
+    <body>
+        <div class="loc">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31403.36154075451!2d76.31105314994912!3d10.308217548048011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080269866481a9%3A0x6b5ec1dc50c0402d!2sChalakudy%2C%20Kerala!5e0!3m2!1sen!2sin!4v1686420466546!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+<div class="container">
+
+    <h1> Donation-Details</h1>
+    <form target="_blank" action="https://formsubmit.co/51640a3737e2da48ffd7d1711c4c8c68" method="POST">
+      <div class="form-group">
+        <div class="form-row">
+          <div class="col">
+            <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+          </div>
+          <div class="col">
+            <input type="number" name="number" class="form-control" placeholder="enter-number" required>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <input type="product-details" name="shirt" class="form-control" placeholder="Enter-product,size" required><br>
+        <input type="location" name="location" class="form-control" placeholder="enter-loc" required><br>
+      </div> 
+      <div class="col">
+        <form>
+            
+            <select name="select" id="li">
+                <option value="shirt">kids</option>
+                <option value="jeans">children</option>
+                <option value="shorts">men</menu></option>
+                <option value="">girls</option>
+                <option value="others">womens</option>
+                <option value="others">others</option>
+                
+            </select>
+            <form>
+                <select name="select" id="select">size</select>
+                <option value="size"></option>
+                <option value="size"></option>
+      </div>
+      <button type="submit" class="btn btn-lg btn-dark btn-block">Submit</button>
+    </form>
+    </form>
+    <form>
+        <div class="hi">
+            
+                <ul>
+                    <li><a href="io.html">Contact</a></li>
+                    <li><a href="ll.html">Team</a</li>
+                        <li><a href="working website.html">Home</a></li>
+                        
+                </ul>
+            
+        </div>
+        <div class="bil">
+            <h1>Quotes</h1>
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJWV8WL0Csezg2IcWXoBikFLAeSRbUotq7w&usqp=CAU" alt="">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSufW5PIRxJHFW3Mziz0i1daggsiAACY1x1Cg&usqp=CAU" alt="">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKm2JTnInPtGwm7frHisXa_dKVsI_6b5TZrg&usqp=CAU" alt="">
+        </div>        
+    <body>
+        
+  </div>

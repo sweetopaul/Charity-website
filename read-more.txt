@@ -1,0 +1,3313 @@
+
+<!doctype html>
+<html dir="ltr" lang="en-US"
+prefix="og: https://ogp.me/ns#" >
+<head><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP5DNH7');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>About - OHO</title>
+<!-- All in One SEO 4.3.1.1 - aioseo.com -->
+<meta name="description" content="Change Today ... Change Tomorrow Transforming together​ Bhumi was founded on August 15, 2006 by a group of friends, who believed that every underprivileged child deserves quality education. Since then, Bhumi has transformed this conviction into a volunteering opportunity for India’s youth, launching a snowball effect of nurturing talent on the path to an educated," />
+<meta name="robots" content="max-image-preview:large" />
+<link rel="canonical" href="https://bhumi.ngo/about/" />
+<meta name="generator" content="All in One SEO (AIOSEO) 4.3.1.1 " />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Bhumi" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About - Facebook" />
+<meta property="og:description" content="Change Today ... Change Tomorrow Transforming together​ Bhumi was founded on August 15, 2006 by a group of friends, who believed that every underprivileged child deserves quality education. Since then, Bhumi has transformed this conviction into a volunteering opportunity for India’s youth, launching a snowball effect of nurturing talent on the path to an educated," />
+<meta property="og:url" content="https://bhumi.ngo/about/" />
+<meta property="og:image" content="https://bhumi.ngo/wp-content/uploads/2022/04/bhumi-ngo.jpg" />
+<meta property="og:image:secure_url" content="https://bhumi.ngo/wp-content/uploads/2022/04/bhumi-ngo.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="792" />
+<meta property="article:published_time" content="2021-01-12T20:40:58+00:00" />
+<meta property="article:modified_time" content="2023-03-17T05:40:55+00:00" />
+<meta property="article:publisher" content="https://www.facebook.com/Bhumi.Org" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@BhumiOrg" />
+<meta name="twitter:title" content="About - Facebook" />
+<meta name="twitter:description" content="Change Today ... Change Tomorrow Transforming together​ Bhumi was founded on August 15, 2006 by a group of friends, who believed that every underprivileged child deserves quality education. Since then, Bhumi has transformed this conviction into a volunteering opportunity for India’s youth, launching a snowball effect of nurturing talent on the path to an educated," />
+<meta name="twitter:creator" content="@BhumiOrg" />
+<meta name="twitter:image" content="https://bhumi.ngo/wp-content/uploads/2022/04/bhumi-ngo.jpg" />
+<script type="application/ld+json" class="aioseo-schema">
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/bhumi.ngo\/about\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/bhumi.ngo\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/bhumi.ngo\/","name":"Home","description":"BHUMI is one of the top NGO in India working for children's education and Health.NGO India provides sustainable livelihoods to underprivileged Children in shelter homes.","url":"https:\/\/bhumi.ngo\/"},"nextItem":"https:\/\/bhumi.ngo\/about\/#listItem"},{"@type":"ListItem","@id":"https:\/\/bhumi.ngo\/about\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/bhumi.ngo\/about\/","name":"About","description":"Change Today ... Change Tomorrow Transforming together\u200b Bhumi was founded on August 15, 2006 by a group of friends, who believed that every underprivileged child deserves quality education. Since then, Bhumi has transformed this conviction into a volunteering opportunity for India\u2019s youth, launching a snowball effect of nurturing talent on the path to an educated,","url":"https:\/\/bhumi.ngo\/about\/"},"previousItem":"https:\/\/bhumi.ngo\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/bhumi.ngo\/#organization","name":"Bhumi","url":"https:\/\/bhumi.ngo\/","sameAs":["https:\/\/www.facebook.com\/Bhumi.Org","https:\/\/twitter.com\/BhumiOrg","https:\/\/www.instagram.com\/bhumiorg\/","https:\/\/www.youtube.com\/user\/BhumiOrg"]},{"@type":"WebPage","@id":"https:\/\/bhumi.ngo\/about\/#webpage","url":"https:\/\/bhumi.ngo\/about\/","name":"About - Bhumi","description":"Change Today ... Change Tomorrow Transforming together\u200b Bhumi was founded on August 15, 2006 by a group of friends, who believed that every underprivileged child deserves quality education. Since then, Bhumi has transformed this conviction into a volunteering opportunity for India\u2019s youth, launching a snowball effect of nurturing talent on the path to an educated,","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/bhumi.ngo\/#website"},"breadcrumb":{"@id":"https:\/\/bhumi.ngo\/about\/#breadcrumblist"},"datePublished":"2021-01-12T20:40:58+05:30","dateModified":"2023-03-17T05:40:55+05:30"},{"@type":"WebSite","@id":"https:\/\/bhumi.ngo\/#website","url":"https:\/\/bhumi.ngo\/","name":"Bhumi","description":"Change Today ... Change Tomorrow","inLanguage":"en-US","publisher":{"@id":"https:\/\/bhumi.ngo\/#organization"}}]}
+</script>
+<!-- All in One SEO -->
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+var gtm4wp_datalayer_name = "dataLayer";
+var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Bhumi &raquo; Feed" href="https://bhumi.ngo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bhumi &raquo; Comments Feed" href="https://bhumi.ngo/comments/feed/" />
+<!-- <link rel='stylesheet' id='wp-event-manager-frontend-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/css/frontend.min.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-event-manager-jquery-ui-daterangepicker-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-event-manager-jquery-ui-daterangepicker-style-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/styles.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-event-manager-jquery-ui-css-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-ui/jquery-ui.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-event-manager-grid-style-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/css/wpem-grid.min.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-event-manager-font-style-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/fonts/style.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://bhumi.ngo/wp-content/plugins/gutenberg/build/block-library/style.css?ver=15.7.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-theme-css' href='https://bhumi.ngo/wp-content/plugins/gutenberg/build/block-library/theme.css?ver=15.7.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='classic-theme-styles-css' href='https://bhumi.ngo/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/337dfm4b/2row5.css" media="all"/>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #f9004d;--wp--preset--color--secondary: #00D09C;--wp--preset--color--dark: #1f1f25;--wp--preset--color--gray: #717173;--wp--preset--color--light: #f8f9fc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--huge: 50px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<style id='extendify-gutenberg-patterns-and-templates-utilities-inline-css' type='text/css'>
+.ext-absolute {
+position: absolute !important;
+}
+.ext-relative {
+position: relative !important;
+}
+.ext-top-base {
+top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-top-lg {
+top: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--top-base {
+top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--top-lg {
+top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-right-base {
+right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-right-lg {
+right: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--right-base {
+right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--right-lg {
+right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-bottom-base {
+bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-bottom-lg {
+bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--bottom-base {
+bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--bottom-lg {
+bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-left-base {
+left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-left-lg {
+left: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--left-base {
+left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--left-lg {
+left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-order-1 {
+order: 1 !important;
+}
+.ext-order-2 {
+order: 2 !important;
+}
+.ext-col-auto {
+grid-column: auto !important;
+}
+.ext-col-span-1 {
+grid-column: span 1 / span 1 !important;
+}
+.ext-col-span-2 {
+grid-column: span 2 / span 2 !important;
+}
+.ext-col-span-3 {
+grid-column: span 3 / span 3 !important;
+}
+.ext-col-span-4 {
+grid-column: span 4 / span 4 !important;
+}
+.ext-col-span-5 {
+grid-column: span 5 / span 5 !important;
+}
+.ext-col-span-6 {
+grid-column: span 6 / span 6 !important;
+}
+.ext-col-span-7 {
+grid-column: span 7 / span 7 !important;
+}
+.ext-col-span-8 {
+grid-column: span 8 / span 8 !important;
+}
+.ext-col-span-9 {
+grid-column: span 9 / span 9 !important;
+}
+.ext-col-span-10 {
+grid-column: span 10 / span 10 !important;
+}
+.ext-col-span-11 {
+grid-column: span 11 / span 11 !important;
+}
+.ext-col-span-12 {
+grid-column: span 12 / span 12 !important;
+}
+.ext-col-span-full {
+grid-column: 1 / -1 !important;
+}
+.ext-col-start-1 {
+grid-column-start: 1 !important;
+}
+.ext-col-start-2 {
+grid-column-start: 2 !important;
+}
+.ext-col-start-3 {
+grid-column-start: 3 !important;
+}
+.ext-col-start-4 {
+grid-column-start: 4 !important;
+}
+.ext-col-start-5 {
+grid-column-start: 5 !important;
+}
+.ext-col-start-6 {
+grid-column-start: 6 !important;
+}
+.ext-col-start-7 {
+grid-column-start: 7 !important;
+}
+.ext-col-start-8 {
+grid-column-start: 8 !important;
+}
+.ext-col-start-9 {
+grid-column-start: 9 !important;
+}
+.ext-col-start-10 {
+grid-column-start: 10 !important;
+}
+.ext-col-start-11 {
+grid-column-start: 11 !important;
+}
+.ext-col-start-12 {
+grid-column-start: 12 !important;
+}
+.ext-col-start-13 {
+grid-column-start: 13 !important;
+}
+.ext-col-start-auto {
+grid-column-start: auto !important;
+}
+.ext-col-end-1 {
+grid-column-end: 1 !important;
+}
+.ext-col-end-2 {
+grid-column-end: 2 !important;
+}
+.ext-col-end-3 {
+grid-column-end: 3 !important;
+}
+.ext-col-end-4 {
+grid-column-end: 4 !important;
+}
+.ext-col-end-5 {
+grid-column-end: 5 !important;
+}
+.ext-col-end-6 {
+grid-column-end: 6 !important;
+}
+.ext-col-end-7 {
+grid-column-end: 7 !important;
+}
+.ext-col-end-8 {
+grid-column-end: 8 !important;
+}
+.ext-col-end-9 {
+grid-column-end: 9 !important;
+}
+.ext-col-end-10 {
+grid-column-end: 10 !important;
+}
+.ext-col-end-11 {
+grid-column-end: 11 !important;
+}
+.ext-col-end-12 {
+grid-column-end: 12 !important;
+}
+.ext-col-end-13 {
+grid-column-end: 13 !important;
+}
+.ext-col-end-auto {
+grid-column-end: auto !important;
+}
+.ext-row-auto {
+grid-row: auto !important;
+}
+.ext-row-span-1 {
+grid-row: span 1 / span 1 !important;
+}
+.ext-row-span-2 {
+grid-row: span 2 / span 2 !important;
+}
+.ext-row-span-3 {
+grid-row: span 3 / span 3 !important;
+}
+.ext-row-span-4 {
+grid-row: span 4 / span 4 !important;
+}
+.ext-row-span-5 {
+grid-row: span 5 / span 5 !important;
+}
+.ext-row-span-6 {
+grid-row: span 6 / span 6 !important;
+}
+.ext-row-span-full {
+grid-row: 1 / -1 !important;
+}
+.ext-row-start-1 {
+grid-row-start: 1 !important;
+}
+.ext-row-start-2 {
+grid-row-start: 2 !important;
+}
+.ext-row-start-3 {
+grid-row-start: 3 !important;
+}
+.ext-row-start-4 {
+grid-row-start: 4 !important;
+}
+.ext-row-start-5 {
+grid-row-start: 5 !important;
+}
+.ext-row-start-6 {
+grid-row-start: 6 !important;
+}
+.ext-row-start-7 {
+grid-row-start: 7 !important;
+}
+.ext-row-start-auto {
+grid-row-start: auto !important;
+}
+.ext-row-end-1 {
+grid-row-end: 1 !important;
+}
+.ext-row-end-2 {
+grid-row-end: 2 !important;
+}
+.ext-row-end-3 {
+grid-row-end: 3 !important;
+}
+.ext-row-end-4 {
+grid-row-end: 4 !important;
+}
+.ext-row-end-5 {
+grid-row-end: 5 !important;
+}
+.ext-row-end-6 {
+grid-row-end: 6 !important;
+}
+.ext-row-end-7 {
+grid-row-end: 7 !important;
+}
+.ext-row-end-auto {
+grid-row-end: auto !important;
+}
+.ext-m-0:not([style*="margin"]) {
+margin: 0 !important;
+}
+.ext-m-auto:not([style*="margin"]) {
+margin: auto !important;
+}
+.ext-m-base:not([style*="margin"]) {
+margin: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-m-lg:not([style*="margin"]) {
+margin: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--m-base:not([style*="margin"]) {
+margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--m-lg:not([style*="margin"]) {
+margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-mx-0:not([style*="margin"]) {
+margin-left: 0 !important;
+margin-right: 0 !important;
+}
+.ext-mx-auto:not([style*="margin"]) {
+margin-left: auto !important;
+margin-right: auto !important;
+}
+.ext-mx-base:not([style*="margin"]) {
+margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-mx-lg:not([style*="margin"]) {
+margin-left: var(--extendify--spacing--large, 3rem) !important;
+margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--mx-base:not([style*="margin"]) {
+margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--mx-lg:not([style*="margin"]) {
+margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-my-0:not([style*="margin"]) {
+margin-top: 0 !important;
+margin-bottom: 0 !important;
+}
+.ext-my-auto:not([style*="margin"]) {
+margin-top: auto !important;
+margin-bottom: auto !important;
+}
+.ext-my-base:not([style*="margin"]) {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-my-lg:not([style*="margin"]) {
+margin-top: var(--extendify--spacing--large, 3rem) !important;
+margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--my-base:not([style*="margin"]) {
+margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--my-lg:not([style*="margin"]) {
+margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-mt-0:not([style*="margin"]) {
+margin-top: 0 !important;
+}
+.ext-mt-auto:not([style*="margin"]) {
+margin-top: auto !important;
+}
+.ext-mt-base:not([style*="margin"]) {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-mt-lg:not([style*="margin"]) {
+margin-top: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--mt-base:not([style*="margin"]) {
+margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--mt-lg:not([style*="margin"]) {
+margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-mr-0:not([style*="margin"]) {
+margin-right: 0 !important;
+}
+.ext-mr-auto:not([style*="margin"]) {
+margin-right: auto !important;
+}
+.ext-mr-base:not([style*="margin"]) {
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-mr-lg:not([style*="margin"]) {
+margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--mr-base:not([style*="margin"]) {
+margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--mr-lg:not([style*="margin"]) {
+margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-mb-0:not([style*="margin"]) {
+margin-bottom: 0 !important;
+}
+.ext-mb-auto:not([style*="margin"]) {
+margin-bottom: auto !important;
+}
+.ext-mb-base:not([style*="margin"]) {
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-mb-lg:not([style*="margin"]) {
+margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--mb-base:not([style*="margin"]) {
+margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--mb-lg:not([style*="margin"]) {
+margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-ml-0:not([style*="margin"]) {
+margin-left: 0 !important;
+}
+.ext-ml-auto:not([style*="margin"]) {
+margin-left: auto !important;
+}
+.ext-ml-base:not([style*="margin"]) {
+margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-ml-lg:not([style*="margin"]) {
+margin-left: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext--ml-base:not([style*="margin"]) {
+margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.ext--ml-lg:not([style*="margin"]) {
+margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.ext-block {
+display: block !important;
+}
+.ext-inline-block {
+display: inline-block !important;
+}
+.ext-inline {
+display: inline !important;
+}
+.ext-flex {
+display: flex !important;
+}
+.ext-inline-flex {
+display: inline-flex !important;
+}
+.ext-grid {
+display: grid !important;
+}
+.ext-inline-grid {
+display: inline-grid !important;
+}
+.ext-hidden {
+display: none !important;
+}
+.ext-w-auto {
+width: auto !important;
+}
+.ext-w-full {
+width: 100% !important;
+}
+.ext-max-w-full {
+max-width: 100% !important;
+}
+.ext-flex-1 {
+flex: 1 1 0% !important;
+}
+.ext-flex-auto {
+flex: 1 1 auto !important;
+}
+.ext-flex-initial {
+flex: 0 1 auto !important;
+}
+.ext-flex-none {
+flex: none !important;
+}
+.ext-flex-shrink-0 {
+flex-shrink: 0 !important;
+}
+.ext-flex-shrink {
+flex-shrink: 1 !important;
+}
+.ext-flex-grow-0 {
+flex-grow: 0 !important;
+}
+.ext-flex-grow {
+flex-grow: 1 !important;
+}
+.ext-list-none {
+list-style-type: none !important;
+}
+.ext-grid-cols-1 {
+grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-2 {
+grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-3 {
+grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-4 {
+grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-5 {
+grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-6 {
+grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-7 {
+grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-8 {
+grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-9 {
+grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-10 {
+grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-11 {
+grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-12 {
+grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+.ext-grid-cols-none {
+grid-template-columns: none !important;
+}
+.ext-grid-rows-1 {
+grid-template-rows: repeat(1, minmax(0, 1fr)) !important;
+}
+.ext-grid-rows-2 {
+grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+}
+.ext-grid-rows-3 {
+grid-template-rows: repeat(3, minmax(0, 1fr)) !important;
+}
+.ext-grid-rows-4 {
+grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+}
+.ext-grid-rows-5 {
+grid-template-rows: repeat(5, minmax(0, 1fr)) !important;
+}
+.ext-grid-rows-6 {
+grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+}
+.ext-grid-rows-none {
+grid-template-rows: none !important;
+}
+.ext-flex-row {
+flex-direction: row !important;
+}
+.ext-flex-row-reverse {
+flex-direction: row-reverse !important;
+}
+.ext-flex-col {
+flex-direction: column !important;
+}
+.ext-flex-col-reverse {
+flex-direction: column-reverse !important;
+}
+.ext-flex-wrap {
+flex-wrap: wrap !important;
+}
+.ext-flex-wrap-reverse {
+flex-wrap: wrap-reverse !important;
+}
+.ext-flex-nowrap {
+flex-wrap: nowrap !important;
+}
+.ext-items-start {
+align-items: flex-start !important;
+}
+.ext-items-end {
+align-items: flex-end !important;
+}
+.ext-items-center {
+align-items: center !important;
+}
+.ext-items-baseline {
+align-items: baseline !important;
+}
+.ext-items-stretch {
+align-items: stretch !important;
+}
+.ext-justify-start {
+justify-content: flex-start !important;
+}
+.ext-justify-end {
+justify-content: flex-end !important;
+}
+.ext-justify-center {
+justify-content: center !important;
+}
+.ext-justify-between {
+justify-content: space-between !important;
+}
+.ext-justify-around {
+justify-content: space-around !important;
+}
+.ext-justify-evenly {
+justify-content: space-evenly !important;
+}
+.ext-justify-items-start {
+justify-items: start !important;
+}
+.ext-justify-items-end {
+justify-items: end !important;
+}
+.ext-justify-items-center {
+justify-items: center !important;
+}
+.ext-justify-items-stretch {
+justify-items: stretch !important;
+}
+.ext-gap-0 {
+gap: 0 !important;
+}
+.ext-gap-base {
+gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-gap-lg {
+gap: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-gap-x-0 {
+-moz-column-gap: 0 !important;
+column-gap: 0 !important;
+}
+.ext-gap-x-base {
+-moz-column-gap: var(--wp--style--block-gap, 1.75rem) !important;
+column-gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-gap-x-lg {
+-moz-column-gap: var(--extendify--spacing--large, 3rem) !important;
+column-gap: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-gap-y-0 {
+row-gap: 0 !important;
+}
+.ext-gap-y-base {
+row-gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-gap-y-lg {
+row-gap: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-justify-self-auto {
+justify-self: auto !important;
+}
+.ext-justify-self-start {
+justify-self: start !important;
+}
+.ext-justify-self-end {
+justify-self: end !important;
+}
+.ext-justify-self-center {
+justify-self: center !important;
+}
+.ext-justify-self-stretch {
+justify-self: stretch !important;
+}
+.ext-rounded-none {
+border-radius: 0px !important;
+}
+.ext-rounded-full {
+border-radius: 9999px !important;
+}
+.ext-rounded-t-none {
+border-top-left-radius: 0px !important;
+border-top-right-radius: 0px !important;
+}
+.ext-rounded-t-full {
+border-top-left-radius: 9999px !important;
+border-top-right-radius: 9999px !important;
+}
+.ext-rounded-r-none {
+border-top-right-radius: 0px !important;
+border-bottom-right-radius: 0px !important;
+}
+.ext-rounded-r-full {
+border-top-right-radius: 9999px !important;
+border-bottom-right-radius: 9999px !important;
+}
+.ext-rounded-b-none {
+border-bottom-right-radius: 0px !important;
+border-bottom-left-radius: 0px !important;
+}
+.ext-rounded-b-full {
+border-bottom-right-radius: 9999px !important;
+border-bottom-left-radius: 9999px !important;
+}
+.ext-rounded-l-none {
+border-top-left-radius: 0px !important;
+border-bottom-left-radius: 0px !important;
+}
+.ext-rounded-l-full {
+border-top-left-radius: 9999px !important;
+border-bottom-left-radius: 9999px !important;
+}
+.ext-rounded-tl-none {
+border-top-left-radius: 0px !important;
+}
+.ext-rounded-tl-full {
+border-top-left-radius: 9999px !important;
+}
+.ext-rounded-tr-none {
+border-top-right-radius: 0px !important;
+}
+.ext-rounded-tr-full {
+border-top-right-radius: 9999px !important;
+}
+.ext-rounded-br-none {
+border-bottom-right-radius: 0px !important;
+}
+.ext-rounded-br-full {
+border-bottom-right-radius: 9999px !important;
+}
+.ext-rounded-bl-none {
+border-bottom-left-radius: 0px !important;
+}
+.ext-rounded-bl-full {
+border-bottom-left-radius: 9999px !important;
+}
+.ext-border-0 {
+border-width: 0px !important;
+}
+.ext-border-t-0 {
+border-top-width: 0px !important;
+}
+.ext-border-r-0 {
+border-right-width: 0px !important;
+}
+.ext-border-b-0 {
+border-bottom-width: 0px !important;
+}
+.ext-border-l-0 {
+border-left-width: 0px !important;
+}
+.ext-p-0:not([style*="padding"]) {
+padding: 0 !important;
+}
+.ext-p-base:not([style*="padding"]) {
+padding: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-p-lg:not([style*="padding"]) {
+padding: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-px-0:not([style*="padding"]) {
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+.ext-px-base:not([style*="padding"]) {
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-px-lg:not([style*="padding"]) {
+padding-left: var(--extendify--spacing--large, 3rem) !important;
+padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-py-0:not([style*="padding"]) {
+padding-top: 0 !important;
+padding-bottom: 0 !important;
+}
+.ext-py-base:not([style*="padding"]) {
+padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-py-lg:not([style*="padding"]) {
+padding-top: var(--extendify--spacing--large, 3rem) !important;
+padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-pt-0:not([style*="padding"]) {
+padding-top: 0 !important;
+}
+.ext-pt-base:not([style*="padding"]) {
+padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-pt-lg:not([style*="padding"]) {
+padding-top: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-pr-0:not([style*="padding"]) {
+padding-right: 0 !important;
+}
+.ext-pr-base:not([style*="padding"]) {
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-pr-lg:not([style*="padding"]) {
+padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-pb-0:not([style*="padding"]) {
+padding-bottom: 0 !important;
+}
+.ext-pb-base:not([style*="padding"]) {
+padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-pb-lg:not([style*="padding"]) {
+padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-pl-0:not([style*="padding"]) {
+padding-left: 0 !important;
+}
+.ext-pl-base:not([style*="padding"]) {
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.ext-pl-lg:not([style*="padding"]) {
+padding-left: var(--extendify--spacing--large, 3rem) !important;
+}
+.ext-text-left {
+text-align: left !important;
+}
+.ext-text-center {
+text-align: center !important;
+}
+.ext-text-right {
+text-align: right !important;
+}
+.ext-leading-none {
+line-height: 1 !important;
+}
+.ext-leading-tight {
+line-height: 1.25 !important;
+}
+.ext-leading-snug {
+line-height: 1.375 !important;
+}
+.ext-leading-normal {
+line-height: 1.5 !important;
+}
+.ext-leading-relaxed {
+line-height: 1.625 !important;
+}
+.ext-leading-loose {
+line-height: 2 !important;
+}
+.ext-aspect-square img {
+aspect-ratio: 1 / 1 !important;
+-o-object-fit: cover !important;
+object-fit: cover !important;
+}
+.ext-aspect-landscape img {
+aspect-ratio: 4 / 3 !important;
+-o-object-fit: cover !important;
+object-fit: cover !important;
+}
+.ext-aspect-landscape-wide img {
+aspect-ratio: 16 / 9 !important;
+-o-object-fit: cover !important;
+object-fit: cover !important;
+}
+.ext-aspect-portrait img {
+aspect-ratio: 3 / 4 !important;
+-o-object-fit: cover !important;
+object-fit: cover !important;
+}
+.ext-aspect-square .components-resizable-box__container,
+.ext-aspect-landscape .components-resizable-box__container,
+.ext-aspect-landscape-wide .components-resizable-box__container,
+.ext-aspect-portrait .components-resizable-box__container {
+height: auto !important;
+}
+.clip-path--rhombus img {
+-webkit-clip-path: polygon(15% 6%, 80% 29%, 84% 93%, 23% 69%) !important;
+clip-path: polygon(15% 6%, 80% 29%, 84% 93%, 23% 69%) !important;
+}
+.clip-path--diamond img {
+-webkit-clip-path: polygon(5% 29%, 60% 2%, 91% 64%, 36% 89%) !important;
+clip-path: polygon(5% 29%, 60% 2%, 91% 64%, 36% 89%) !important;
+}
+.clip-path--rhombus-alt img {
+-webkit-clip-path: polygon(14% 9%, 85% 24%, 91% 89%, 19% 76%) !important;
+clip-path: polygon(14% 9%, 85% 24%, 91% 89%, 19% 76%) !important;
+}
+/*
+The .ext utility is a top-level class that we use to target contents within our patterns.
+We use it here to ensure columns blocks display well across themes.
+*/
+.wp-block-columns[class*="fullwidth-cols"] {
+/* no suggestion */
+margin-bottom: unset !important;
+}
+.wp-block-column.editor\:pointer-events-none {
+/* no suggestion */
+margin-top: 0 !important;
+margin-bottom: 0 !important;
+}
+.is-root-container.block-editor-block-list__layout
+> [data-align="full"]:not(:first-of-type)
+> .wp-block-column.editor\:pointer-events-none,
+.is-root-container.block-editor-block-list__layout
+> [data-align="wide"]
+> .wp-block-column.editor\:pointer-events-none {
+/* no suggestion */
+margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+.is-root-container.block-editor-block-list__layout
+> [data-align="full"]:not(:first-of-type)
+> .ext-my-0,
+.is-root-container.block-editor-block-list__layout
+> [data-align="wide"]
+> .ext-my-0:not([style*="margin"]) {
+/* no suggestion */
+margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+/* Some popular themes use padding instead of core margin for columns; remove it */
+.ext .wp-block-columns .wp-block-column[style*="padding"] {
+/* no suggestion */
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+/* Some popular themes add double spacing between columns; remove it */
+.ext
+.wp-block-columns
++ .wp-block-columns:not([class*="mt-"]):not([class*="my-"]):not([style*="margin"]) {
+/* no suggestion */
+margin-top: 0 !important;
+}
+[class*="fullwidth-cols"] .wp-block-column:first-child,
+[class*="fullwidth-cols"] .wp-block-group:first-child {
+/* no suggestion */
+}
+[class*="fullwidth-cols"] .wp-block-column:first-child, [class*="fullwidth-cols"] .wp-block-group:first-child {
+margin-top: 0 !important;
+}
+[class*="fullwidth-cols"] .wp-block-column:last-child,
+[class*="fullwidth-cols"] .wp-block-group:last-child {
+/* no suggestion */
+}
+[class*="fullwidth-cols"] .wp-block-column:last-child, [class*="fullwidth-cols"] .wp-block-group:last-child {
+margin-bottom: 0 !important;
+}
+[class*="fullwidth-cols"] .wp-block-column:first-child > * {
+/* no suggestion */
+margin-top: 0 !important;
+}
+[class*="fullwidth-cols"] .wp-block-column > *:first-child {
+/* no suggestion */
+margin-top: 0 !important;
+}
+[class*="fullwidth-cols"] .wp-block-column > *:last-child {
+/* no suggestion */
+margin-bottom: 0 !important;
+}
+.ext .is-not-stacked-on-mobile .wp-block-column {
+/* no suggestion */
+margin-bottom: 0 !important;
+}
+/* Add base margin bottom to all columns */
+.wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+> .wp-block-column:not(:last-child) {
+/* no suggestion */
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+@media (min-width: 782px) {
+.wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+> .wp-block-column:not(:last-child) {
+/* no suggestion */
+margin-bottom: 0 !important;
+}
+}
+/* Remove margin bottom from "not-stacked" columns */
+.wp-block-columns[class*="fullwidth-cols"].is-not-stacked-on-mobile
+> .wp-block-column {
+/* no suggestion */
+margin-bottom: 0 !important;
+}
+@media (min-width: 600px) and (max-width: 781px) {
+.wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+> .wp-block-column:nth-child(even) {
+/* no suggestion */
+margin-left: var(--wp--style--block-gap, 2em) !important;
+}
+}
+/*
+The `tablet:fullwidth-cols` and `desktop:fullwidth-cols` utilities are used
+to counter the core/columns responsive for at our breakpoints.
+*/
+@media (max-width: 781px) {
+.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile) {
+flex-wrap: wrap !important;
+}
+.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column {
+margin-left: 0 !important;
+}
+.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column:not([style*="margin"]) {
+/* no suggestion */
+margin-left: 0 !important;
+}
+.tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column {
+flex-basis: 100% !important; /* Required to negate core/columns flex-basis */
+}
+}
+@media (max-width: 1079px) {
+.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile) {
+flex-wrap: wrap !important;
+}
+.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column {
+margin-left: 0 !important;
+}
+.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column:not([style*="margin"]) {
+/* no suggestion */
+margin-left: 0 !important;
+}
+.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column {
+flex-basis: 100% !important; /* Required to negate core/columns flex-basis */
+}
+.desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+> .wp-block-column:not(:last-child) {
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+}
+.direction-rtl {
+direction: rtl !important;
+}
+.direction-ltr {
+direction: ltr !important;
+}
+/* Use "is-style-" prefix to support adding this style to the core/list block */
+.is-style-inline-list {
+padding-left: 0 !important;
+}
+.is-style-inline-list li {
+/* no suggestion */
+list-style-type: none !important;
+}
+@media (min-width: 782px) {
+.is-style-inline-list li {
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+display: inline !important;
+}
+}
+.is-style-inline-list li:first-child {
+/* no suggestion */
+}
+@media (min-width: 782px) {
+.is-style-inline-list li:first-child {
+margin-left: 0 !important;
+}
+}
+.is-style-inline-list li:last-child {
+/* no suggestion */
+}
+@media (min-width: 782px) {
+.is-style-inline-list li:last-child {
+margin-right: 0 !important;
+}
+}
+.bring-to-front {
+position: relative !important;
+z-index: 10 !important;
+}
+.text-stroke {
+-webkit-text-stroke-width: var(
+--wp--custom--typography--text-stroke-width,
+2px
+) !important;
+-webkit-text-stroke-color: var(--wp--preset--color--background) !important;
+}
+.text-stroke--primary {
+-webkit-text-stroke-width: var(
+--wp--custom--typography--text-stroke-width,
+2px
+) !important;
+-webkit-text-stroke-color: var(--wp--preset--color--primary) !important;
+}
+.text-stroke--secondary {
+-webkit-text-stroke-width: var(
+--wp--custom--typography--text-stroke-width,
+2px
+) !important;
+-webkit-text-stroke-color: var(--wp--preset--color--secondary) !important;
+}
+.editor\:no-caption .block-editor-rich-text__editable {
+display: none !important;
+}
+.editor\:no-inserter > .block-list-appender,
+.editor\:no-inserter .wp-block-group__inner-container > .block-list-appender {
+display: none !important;
+}
+.editor\:no-inserter .wp-block-cover__inner-container > .block-list-appender {
+display: none !important;
+}
+.editor\:no-inserter .wp-block-column:not(.is-selected) > .block-list-appender {
+display: none !important;
+}
+.editor\:no-resize .components-resizable-box__handle::after,
+.editor\:no-resize .components-resizable-box__side-handle::before,
+.editor\:no-resize .components-resizable-box__handle {
+display: none !important;
+pointer-events: none !important;
+}
+.editor\:no-resize .components-resizable-box__container {
+display: block !important;
+}
+.editor\:pointer-events-none {
+pointer-events: none !important;
+}
+.is-style-angled {
+/* no suggestion */
+align-items: center !important;
+justify-content: flex-end !important;
+}
+.ext .is-style-angled > [class*="_inner-container"] {
+align-items: center !important;
+}
+.is-style-angled .wp-block-cover__image-background,
+.is-style-angled .wp-block-cover__video-background {
+/* no suggestion */
+-webkit-clip-path: polygon(0 0, 30% 0%, 50% 100%, 0% 100%) !important;
+clip-path: polygon(0 0, 30% 0%, 50% 100%, 0% 100%) !important;
+z-index: 1 !important;
+}
+@media (min-width: 782px) {
+.is-style-angled .wp-block-cover__image-background,
+.is-style-angled .wp-block-cover__video-background {
+/* no suggestion */
+-webkit-clip-path: polygon(0 0, 55% 0%, 65% 100%, 0% 100%) !important;
+clip-path: polygon(0 0, 55% 0%, 65% 100%, 0% 100%) !important;
+}
+}
+.has-foreground-color {
+/* no suggestion */
+color: var(--wp--preset--color--foreground, #000) !important;
+}
+.has-foreground-background-color {
+/* no suggestion */
+background-color: var(--wp--preset--color--foreground, #000) !important;
+}
+.has-background-color {
+/* no suggestion */
+color: var(--wp--preset--color--background, #fff) !important;
+}
+.has-background-background-color {
+/* no suggestion */
+background-color: var(--wp--preset--color--background, #fff) !important;
+}
+.has-primary-color {
+/* no suggestion */
+color: var(--wp--preset--color--primary, #4b5563) !important;
+}
+.has-primary-background-color {
+/* no suggestion */
+background-color: var(--wp--preset--color--primary, #4b5563) !important;
+}
+.has-secondary-color {
+/* no suggestion */
+color: var(--wp--preset--color--secondary, #9ca3af) !important;
+}
+.has-secondary-background-color {
+/* no suggestion */
+background-color: var(--wp--preset--color--secondary, #9ca3af) !important;
+}
+/* Ensure themes that target specific elements use the right colors */
+.ext.has-text-color p,
+.ext.has-text-color h1,
+.ext.has-text-color h2,
+.ext.has-text-color h3,
+.ext.has-text-color h4,
+.ext.has-text-color h5,
+.ext.has-text-color h6 {
+/* no suggestion */
+color: currentColor !important;
+}
+.has-white-color {
+/* no suggestion */
+color: var(--wp--preset--color--white, #fff) !important;
+}
+.has-black-color {
+/* no suggestion */
+color: var(--wp--preset--color--black, #000) !important;
+}
+.has-ext-foreground-background-color {
+/* no suggestion */
+background-color: var(
+--wp--preset--color--foreground,
+var(--wp--preset--color--black, #000)
+) !important;
+}
+.has-ext-primary-background-color {
+/* no suggestion */
+background-color: var(
+--wp--preset--color--primary,
+var(--wp--preset--color--cyan-bluish-gray, #000)
+) !important;
+}
+/* Fix button borders with specified background colors */
+.wp-block-button__link.has-black-background-color {
+/* no suggestion */
+border-color: var(--wp--preset--color--black, #000) !important;
+}
+.wp-block-button__link.has-white-background-color {
+/* no suggestion */
+border-color: var(--wp--preset--color--white, #fff) !important;
+}
+.has-ext-small-font-size {
+/* no suggestion */
+font-size: var(--wp--preset--font-size--ext-small) !important;
+}
+.has-ext-medium-font-size {
+/* no suggestion */
+font-size: var(--wp--preset--font-size--ext-medium) !important;
+}
+.has-ext-large-font-size {
+/* no suggestion */
+font-size: var(--wp--preset--font-size--ext-large) !important;
+line-height: 1.2 !important;
+}
+.has-ext-x-large-font-size {
+/* no suggestion */
+font-size: var(--wp--preset--font-size--ext-x-large) !important;
+line-height: 1 !important;
+}
+.has-ext-xx-large-font-size {
+/* no suggestion */
+font-size: var(--wp--preset--font-size--ext-xx-large) !important;
+line-height: 1 !important;
+}
+/* Line height */
+.has-ext-x-large-font-size:not([style*="line-height"]) {
+/* no suggestion */
+line-height: 1.1 !important;
+}
+.has-ext-xx-large-font-size:not([style*="line-height"]) {
+/* no suggestion */
+line-height: 1.1 !important;
+}
+.ext .wp-block-group > * {
+/* Line height */
+margin-top: 0 !important;
+margin-bottom: 0 !important;
+}
+.ext .wp-block-group > * + * {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+margin-bottom: 0 !important;
+}
+.ext h2 {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.has-ext-x-large-font-size + p,
+.has-ext-x-large-font-size + h3 {
+margin-top: 0.5rem !important;
+}
+.ext .wp-block-buttons > .wp-block-button.wp-block-button__width-25 {
+width: calc(25% - var(--wp--style--block-gap, 0.5em) * 0.75) !important;
+min-width: 12rem !important;
+}
+/* Classic themes use an inner [class*="_inner-container"] that our utilities cannot directly target, so we need to do so with a few */
+.ext .ext-grid > [class*="_inner-container"] {
+/* no suggestion */
+display: grid !important;
+}
+/* Unhinge grid for container blocks in classic themes, and < 5.9 */
+.ext > [class*="_inner-container"] > .ext-grid:not([class*="columns"]),
+.ext
+> [class*="_inner-container"]
+> .wp-block
+> .ext-grid:not([class*="columns"]) {
+/* no suggestion */
+display: initial !important;
+}
+/* Grid Columns */
+.ext .ext-grid-cols-1 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-2 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-3 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-4 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-5 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-6 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-7 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-8 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-9 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-10 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-11 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-12 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-13 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: repeat(13, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-cols-none > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-columns: none !important;
+}
+/* Grid Rows */
+.ext .ext-grid-rows-1 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: repeat(1, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-rows-2 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-rows-3 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: repeat(3, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-rows-4 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-rows-5 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: repeat(5, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-rows-6 > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+}
+.ext .ext-grid-rows-none > [class*="_inner-container"] {
+/* no suggestion */
+grid-template-rows: none !important;
+}
+/* Align */
+.ext .ext-items-start > [class*="_inner-container"] {
+align-items: flex-start !important;
+}
+.ext .ext-items-end > [class*="_inner-container"] {
+align-items: flex-end !important;
+}
+.ext .ext-items-center > [class*="_inner-container"] {
+align-items: center !important;
+}
+.ext .ext-items-baseline > [class*="_inner-container"] {
+align-items: baseline !important;
+}
+.ext .ext-items-stretch > [class*="_inner-container"] {
+align-items: stretch !important;
+}
+.ext.wp-block-group > *:last-child {
+/* no suggestion */
+margin-bottom: 0 !important;
+}
+/* For <5.9 */
+.ext .wp-block-group__inner-container {
+/* no suggestion */
+padding: 0 !important;
+}
+.ext.has-background {
+/* no suggestion */
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+/* Fallback for classic theme group blocks */
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"],
+.ext
+*[class*="inner-container"]
+> [data-align="wide"]
+*[class*="inner-container"] {
+/* no suggestion */
+max-width: var(--responsive--alignwide-width, 120rem) !important;
+}
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"] > *,
+.ext
+*[class*="inner-container"]
+> [data-align="wide"]
+*[class*="inner-container"]
+> * {
+/* no suggestion */
+}
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"] > *, .ext
+*[class*="inner-container"]
+> [data-align="wide"]
+*[class*="inner-container"]
+> * {
+max-width: 100% !important;
+}
+/* Ensure image block display is standardized */
+.ext .wp-block-image {
+/* no suggestion */
+position: relative !important;
+text-align: center !important;
+}
+.ext .wp-block-image img {
+/* no suggestion */
+display: inline-block !important;
+vertical-align: middle !important;
+}
+body {
+/* no suggestion */
+/* We need to abstract this out of tailwind.config because clamp doesnt translate with negative margins */
+--extendify--spacing--large: var(
+--wp--custom--spacing--large,
+clamp(2em, 8vw, 8em)
+) !important;
+/* Add pattern preset font sizes */
+--wp--preset--font-size--ext-small: 1rem !important;
+--wp--preset--font-size--ext-medium: 1.125rem !important;
+--wp--preset--font-size--ext-large: clamp(1.65rem, 3.5vw, 2.15rem) !important;
+--wp--preset--font-size--ext-x-large: clamp(3rem, 6vw, 4.75rem) !important;
+--wp--preset--font-size--ext-xx-large: clamp(3.25rem, 7.5vw, 5.75rem) !important;
+/* Fallbacks for pre 5.9 themes */
+--wp--preset--color--black: #000 !important;
+--wp--preset--color--white: #fff !important;
+}
+.ext * {
+box-sizing: border-box !important;
+}
+/* Astra: Remove spacer block visuals in the library */
+.block-editor-block-preview__content-iframe
+.ext
+[data-type="core/spacer"]
+.components-resizable-box__container {
+/* no suggestion */
+background: transparent !important;
+}
+.block-editor-block-preview__content-iframe
+.ext
+[data-type="core/spacer"]
+.block-library-spacer__resize-container::before {
+/* no suggestion */
+display: none !important;
+}
+/* Twenty Twenty adds a lot of margin automatically to blocks. We only want our own margin added to our patterns. */
+.ext .wp-block-group__inner-container figure.wp-block-gallery.alignfull {
+/* no suggestion */
+margin-top: unset !important;
+margin-bottom: unset !important;
+}
+/* Ensure no funky business is assigned to alignwide */
+.ext .alignwide {
+/* no suggestion */
+margin-left: auto !important;
+margin-right: auto !important;
+}
+/* Negate blockGap being inappropriately assigned in the editor */
+.is-root-container.block-editor-block-list__layout
+> [data-align="full"]:not(:first-of-type)
+> .ext-my-0,
+.is-root-container.block-editor-block-list__layout
+> [data-align="wide"]
+> .ext-my-0:not([style*="margin"]) {
+/* no suggestion */
+margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+/* Ensure vh content in previews looks taller */
+.block-editor-block-preview__content-iframe .preview\:min-h-50 {
+/* no suggestion */
+min-height: 50vw !important;
+}
+.block-editor-block-preview__content-iframe .preview\:min-h-60 {
+/* no suggestion */
+min-height: 60vw !important;
+}
+.block-editor-block-preview__content-iframe .preview\:min-h-70 {
+/* no suggestion */
+min-height: 70vw !important;
+}
+.block-editor-block-preview__content-iframe .preview\:min-h-80 {
+/* no suggestion */
+min-height: 80vw !important;
+}
+.block-editor-block-preview__content-iframe .preview\:min-h-100 {
+/* no suggestion */
+min-height: 100vw !important;
+}
+/*  Removes excess margin when applied to the alignfull parent div in Block Themes */
+.ext-mr-0.alignfull:not([style*="margin"]):not([style*="margin"]) {
+/* no suggestion */
+margin-right: 0 !important;
+}
+.ext-ml-0:not([style*="margin"]):not([style*="margin"]) {
+/* no suggestion */
+margin-left: 0 !important;
+}
+/*  Ensures fullwidth blocks display properly in the editor when margin is zeroed out */
+.is-root-container
+.wp-block[data-align="full"]
+> .ext-mx-0:not([style*="margin"]):not([style*="margin"]) {
+/* no suggestion */
+margin-right: calc(1 * var(--wp--custom--spacing--outer, 0)) !important;
+margin-left: calc(1 * var(--wp--custom--spacing--outer, 0)) !important;
+overflow: hidden !important;
+width: unset !important;
+}
+@media (min-width: 782px) {
+.tablet\:ext-absolute {
+position: absolute !important;
+}
+.tablet\:ext-relative {
+position: relative !important;
+}
+.tablet\:ext-top-base {
+top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-top-lg {
+top: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--top-base {
+top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--top-lg {
+top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-right-base {
+right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-right-lg {
+right: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--right-base {
+right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--right-lg {
+right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-bottom-base {
+bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-bottom-lg {
+bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--bottom-base {
+bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--bottom-lg {
+bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-left-base {
+left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-left-lg {
+left: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--left-base {
+left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--left-lg {
+left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-order-1 {
+order: 1 !important;
+}
+.tablet\:ext-order-2 {
+order: 2 !important;
+}
+.tablet\:ext-m-0:not([style*="margin"]) {
+margin: 0 !important;
+}
+.tablet\:ext-m-auto:not([style*="margin"]) {
+margin: auto !important;
+}
+.tablet\:ext-m-base:not([style*="margin"]) {
+margin: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-m-lg:not([style*="margin"]) {
+margin: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--m-base:not([style*="margin"]) {
+margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--m-lg:not([style*="margin"]) {
+margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-mx-0:not([style*="margin"]) {
+margin-left: 0 !important;
+margin-right: 0 !important;
+}
+.tablet\:ext-mx-auto:not([style*="margin"]) {
+margin-left: auto !important;
+margin-right: auto !important;
+}
+.tablet\:ext-mx-base:not([style*="margin"]) {
+margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-mx-lg:not([style*="margin"]) {
+margin-left: var(--extendify--spacing--large, 3rem) !important;
+margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--mx-base:not([style*="margin"]) {
+margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--mx-lg:not([style*="margin"]) {
+margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-my-0:not([style*="margin"]) {
+margin-top: 0 !important;
+margin-bottom: 0 !important;
+}
+.tablet\:ext-my-auto:not([style*="margin"]) {
+margin-top: auto !important;
+margin-bottom: auto !important;
+}
+.tablet\:ext-my-base:not([style*="margin"]) {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-my-lg:not([style*="margin"]) {
+margin-top: var(--extendify--spacing--large, 3rem) !important;
+margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--my-base:not([style*="margin"]) {
+margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--my-lg:not([style*="margin"]) {
+margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-mt-0:not([style*="margin"]) {
+margin-top: 0 !important;
+}
+.tablet\:ext-mt-auto:not([style*="margin"]) {
+margin-top: auto !important;
+}
+.tablet\:ext-mt-base:not([style*="margin"]) {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-mt-lg:not([style*="margin"]) {
+margin-top: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--mt-base:not([style*="margin"]) {
+margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--mt-lg:not([style*="margin"]) {
+margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-mr-0:not([style*="margin"]) {
+margin-right: 0 !important;
+}
+.tablet\:ext-mr-auto:not([style*="margin"]) {
+margin-right: auto !important;
+}
+.tablet\:ext-mr-base:not([style*="margin"]) {
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-mr-lg:not([style*="margin"]) {
+margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--mr-base:not([style*="margin"]) {
+margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--mr-lg:not([style*="margin"]) {
+margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-mb-0:not([style*="margin"]) {
+margin-bottom: 0 !important;
+}
+.tablet\:ext-mb-auto:not([style*="margin"]) {
+margin-bottom: auto !important;
+}
+.tablet\:ext-mb-base:not([style*="margin"]) {
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-mb-lg:not([style*="margin"]) {
+margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--mb-base:not([style*="margin"]) {
+margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--mb-lg:not([style*="margin"]) {
+margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-ml-0:not([style*="margin"]) {
+margin-left: 0 !important;
+}
+.tablet\:ext-ml-auto:not([style*="margin"]) {
+margin-left: auto !important;
+}
+.tablet\:ext-ml-base:not([style*="margin"]) {
+margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-ml-lg:not([style*="margin"]) {
+margin-left: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext--ml-base:not([style*="margin"]) {
+margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.tablet\:ext--ml-lg:not([style*="margin"]) {
+margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.tablet\:ext-block {
+display: block !important;
+}
+.tablet\:ext-inline-block {
+display: inline-block !important;
+}
+.tablet\:ext-inline {
+display: inline !important;
+}
+.tablet\:ext-flex {
+display: flex !important;
+}
+.tablet\:ext-inline-flex {
+display: inline-flex !important;
+}
+.tablet\:ext-grid {
+display: grid !important;
+}
+.tablet\:ext-inline-grid {
+display: inline-grid !important;
+}
+.tablet\:ext-hidden {
+display: none !important;
+}
+.tablet\:ext-w-auto {
+width: auto !important;
+}
+.tablet\:ext-w-full {
+width: 100% !important;
+}
+.tablet\:ext-max-w-full {
+max-width: 100% !important;
+}
+.tablet\:ext-flex-1 {
+flex: 1 1 0% !important;
+}
+.tablet\:ext-flex-auto {
+flex: 1 1 auto !important;
+}
+.tablet\:ext-flex-initial {
+flex: 0 1 auto !important;
+}
+.tablet\:ext-flex-none {
+flex: none !important;
+}
+.tablet\:ext-flex-shrink-0 {
+flex-shrink: 0 !important;
+}
+.tablet\:ext-flex-shrink {
+flex-shrink: 1 !important;
+}
+.tablet\:ext-flex-grow-0 {
+flex-grow: 0 !important;
+}
+.tablet\:ext-flex-grow {
+flex-grow: 1 !important;
+}
+.tablet\:ext-list-none {
+list-style-type: none !important;
+}
+.tablet\:ext-grid-cols-1 {
+grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-2 {
+grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-3 {
+grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-4 {
+grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-5 {
+grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-6 {
+grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-7 {
+grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-8 {
+grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-9 {
+grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-10 {
+grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-11 {
+grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-12 {
+grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+.tablet\:ext-grid-cols-none {
+grid-template-columns: none !important;
+}
+.tablet\:ext-flex-row {
+flex-direction: row !important;
+}
+.tablet\:ext-flex-row-reverse {
+flex-direction: row-reverse !important;
+}
+.tablet\:ext-flex-col {
+flex-direction: column !important;
+}
+.tablet\:ext-flex-col-reverse {
+flex-direction: column-reverse !important;
+}
+.tablet\:ext-flex-wrap {
+flex-wrap: wrap !important;
+}
+.tablet\:ext-flex-wrap-reverse {
+flex-wrap: wrap-reverse !important;
+}
+.tablet\:ext-flex-nowrap {
+flex-wrap: nowrap !important;
+}
+.tablet\:ext-items-start {
+align-items: flex-start !important;
+}
+.tablet\:ext-items-end {
+align-items: flex-end !important;
+}
+.tablet\:ext-items-center {
+align-items: center !important;
+}
+.tablet\:ext-items-baseline {
+align-items: baseline !important;
+}
+.tablet\:ext-items-stretch {
+align-items: stretch !important;
+}
+.tablet\:ext-justify-start {
+justify-content: flex-start !important;
+}
+.tablet\:ext-justify-end {
+justify-content: flex-end !important;
+}
+.tablet\:ext-justify-center {
+justify-content: center !important;
+}
+.tablet\:ext-justify-between {
+justify-content: space-between !important;
+}
+.tablet\:ext-justify-around {
+justify-content: space-around !important;
+}
+.tablet\:ext-justify-evenly {
+justify-content: space-evenly !important;
+}
+.tablet\:ext-justify-items-start {
+justify-items: start !important;
+}
+.tablet\:ext-justify-items-end {
+justify-items: end !important;
+}
+.tablet\:ext-justify-items-center {
+justify-items: center !important;
+}
+.tablet\:ext-justify-items-stretch {
+justify-items: stretch !important;
+}
+.tablet\:ext-justify-self-auto {
+justify-self: auto !important;
+}
+.tablet\:ext-justify-self-start {
+justify-self: start !important;
+}
+.tablet\:ext-justify-self-end {
+justify-self: end !important;
+}
+.tablet\:ext-justify-self-center {
+justify-self: center !important;
+}
+.tablet\:ext-justify-self-stretch {
+justify-self: stretch !important;
+}
+.tablet\:ext-p-0:not([style*="padding"]) {
+padding: 0 !important;
+}
+.tablet\:ext-p-base:not([style*="padding"]) {
+padding: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-p-lg:not([style*="padding"]) {
+padding: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-px-0:not([style*="padding"]) {
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+.tablet\:ext-px-base:not([style*="padding"]) {
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-px-lg:not([style*="padding"]) {
+padding-left: var(--extendify--spacing--large, 3rem) !important;
+padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-py-0:not([style*="padding"]) {
+padding-top: 0 !important;
+padding-bottom: 0 !important;
+}
+.tablet\:ext-py-base:not([style*="padding"]) {
+padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-py-lg:not([style*="padding"]) {
+padding-top: var(--extendify--spacing--large, 3rem) !important;
+padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-pt-0:not([style*="padding"]) {
+padding-top: 0 !important;
+}
+.tablet\:ext-pt-base:not([style*="padding"]) {
+padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-pt-lg:not([style*="padding"]) {
+padding-top: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-pr-0:not([style*="padding"]) {
+padding-right: 0 !important;
+}
+.tablet\:ext-pr-base:not([style*="padding"]) {
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-pr-lg:not([style*="padding"]) {
+padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-pb-0:not([style*="padding"]) {
+padding-bottom: 0 !important;
+}
+.tablet\:ext-pb-base:not([style*="padding"]) {
+padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-pb-lg:not([style*="padding"]) {
+padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-pl-0:not([style*="padding"]) {
+padding-left: 0 !important;
+}
+.tablet\:ext-pl-base:not([style*="padding"]) {
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.tablet\:ext-pl-lg:not([style*="padding"]) {
+padding-left: var(--extendify--spacing--large, 3rem) !important;
+}
+.tablet\:ext-text-left {
+text-align: left !important;
+}
+.tablet\:ext-text-center {
+text-align: center !important;
+}
+.tablet\:ext-text-right {
+text-align: right !important;
+}
+}
+@media (min-width: 1080px) {
+.desktop\:ext-absolute {
+position: absolute !important;
+}
+.desktop\:ext-relative {
+position: relative !important;
+}
+.desktop\:ext-top-base {
+top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-top-lg {
+top: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--top-base {
+top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--top-lg {
+top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-right-base {
+right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-right-lg {
+right: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--right-base {
+right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--right-lg {
+right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-bottom-base {
+bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-bottom-lg {
+bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--bottom-base {
+bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--bottom-lg {
+bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-left-base {
+left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-left-lg {
+left: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--left-base {
+left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--left-lg {
+left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-order-1 {
+order: 1 !important;
+}
+.desktop\:ext-order-2 {
+order: 2 !important;
+}
+.desktop\:ext-m-0:not([style*="margin"]) {
+margin: 0 !important;
+}
+.desktop\:ext-m-auto:not([style*="margin"]) {
+margin: auto !important;
+}
+.desktop\:ext-m-base:not([style*="margin"]) {
+margin: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-m-lg:not([style*="margin"]) {
+margin: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--m-base:not([style*="margin"]) {
+margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--m-lg:not([style*="margin"]) {
+margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-mx-0:not([style*="margin"]) {
+margin-left: 0 !important;
+margin-right: 0 !important;
+}
+.desktop\:ext-mx-auto:not([style*="margin"]) {
+margin-left: auto !important;
+margin-right: auto !important;
+}
+.desktop\:ext-mx-base:not([style*="margin"]) {
+margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-mx-lg:not([style*="margin"]) {
+margin-left: var(--extendify--spacing--large, 3rem) !important;
+margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--mx-base:not([style*="margin"]) {
+margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--mx-lg:not([style*="margin"]) {
+margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-my-0:not([style*="margin"]) {
+margin-top: 0 !important;
+margin-bottom: 0 !important;
+}
+.desktop\:ext-my-auto:not([style*="margin"]) {
+margin-top: auto !important;
+margin-bottom: auto !important;
+}
+.desktop\:ext-my-base:not([style*="margin"]) {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-my-lg:not([style*="margin"]) {
+margin-top: var(--extendify--spacing--large, 3rem) !important;
+margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--my-base:not([style*="margin"]) {
+margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--my-lg:not([style*="margin"]) {
+margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-mt-0:not([style*="margin"]) {
+margin-top: 0 !important;
+}
+.desktop\:ext-mt-auto:not([style*="margin"]) {
+margin-top: auto !important;
+}
+.desktop\:ext-mt-base:not([style*="margin"]) {
+margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-mt-lg:not([style*="margin"]) {
+margin-top: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--mt-base:not([style*="margin"]) {
+margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--mt-lg:not([style*="margin"]) {
+margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-mr-0:not([style*="margin"]) {
+margin-right: 0 !important;
+}
+.desktop\:ext-mr-auto:not([style*="margin"]) {
+margin-right: auto !important;
+}
+.desktop\:ext-mr-base:not([style*="margin"]) {
+margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-mr-lg:not([style*="margin"]) {
+margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--mr-base:not([style*="margin"]) {
+margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--mr-lg:not([style*="margin"]) {
+margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-mb-0:not([style*="margin"]) {
+margin-bottom: 0 !important;
+}
+.desktop\:ext-mb-auto:not([style*="margin"]) {
+margin-bottom: auto !important;
+}
+.desktop\:ext-mb-base:not([style*="margin"]) {
+margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-mb-lg:not([style*="margin"]) {
+margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--mb-base:not([style*="margin"]) {
+margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--mb-lg:not([style*="margin"]) {
+margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-ml-0:not([style*="margin"]) {
+margin-left: 0 !important;
+}
+.desktop\:ext-ml-auto:not([style*="margin"]) {
+margin-left: auto !important;
+}
+.desktop\:ext-ml-base:not([style*="margin"]) {
+margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-ml-lg:not([style*="margin"]) {
+margin-left: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext--ml-base:not([style*="margin"]) {
+margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+.desktop\:ext--ml-lg:not([style*="margin"]) {
+margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+.desktop\:ext-block {
+display: block !important;
+}
+.desktop\:ext-inline-block {
+display: inline-block !important;
+}
+.desktop\:ext-inline {
+display: inline !important;
+}
+.desktop\:ext-flex {
+display: flex !important;
+}
+.desktop\:ext-inline-flex {
+display: inline-flex !important;
+}
+.desktop\:ext-grid {
+display: grid !important;
+}
+.desktop\:ext-inline-grid {
+display: inline-grid !important;
+}
+.desktop\:ext-hidden {
+display: none !important;
+}
+.desktop\:ext-w-auto {
+width: auto !important;
+}
+.desktop\:ext-w-full {
+width: 100% !important;
+}
+.desktop\:ext-max-w-full {
+max-width: 100% !important;
+}
+.desktop\:ext-flex-1 {
+flex: 1 1 0% !important;
+}
+.desktop\:ext-flex-auto {
+flex: 1 1 auto !important;
+}
+.desktop\:ext-flex-initial {
+flex: 0 1 auto !important;
+}
+.desktop\:ext-flex-none {
+flex: none !important;
+}
+.desktop\:ext-flex-shrink-0 {
+flex-shrink: 0 !important;
+}
+.desktop\:ext-flex-shrink {
+flex-shrink: 1 !important;
+}
+.desktop\:ext-flex-grow-0 {
+flex-grow: 0 !important;
+}
+.desktop\:ext-flex-grow {
+flex-grow: 1 !important;
+}
+.desktop\:ext-list-none {
+list-style-type: none !important;
+}
+.desktop\:ext-grid-cols-1 {
+grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-2 {
+grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-3 {
+grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-4 {
+grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-5 {
+grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-6 {
+grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-7 {
+grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-8 {
+grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-9 {
+grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-10 {
+grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-11 {
+grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-12 {
+grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+.desktop\:ext-grid-cols-none {
+grid-template-columns: none !important;
+}
+.desktop\:ext-flex-row {
+flex-direction: row !important;
+}
+.desktop\:ext-flex-row-reverse {
+flex-direction: row-reverse !important;
+}
+.desktop\:ext-flex-col {
+flex-direction: column !important;
+}
+.desktop\:ext-flex-col-reverse {
+flex-direction: column-reverse !important;
+}
+.desktop\:ext-flex-wrap {
+flex-wrap: wrap !important;
+}
+.desktop\:ext-flex-wrap-reverse {
+flex-wrap: wrap-reverse !important;
+}
+.desktop\:ext-flex-nowrap {
+flex-wrap: nowrap !important;
+}
+.desktop\:ext-items-start {
+align-items: flex-start !important;
+}
+.desktop\:ext-items-end {
+align-items: flex-end !important;
+}
+.desktop\:ext-items-center {
+align-items: center !important;
+}
+.desktop\:ext-items-baseline {
+align-items: baseline !important;
+}
+.desktop\:ext-items-stretch {
+align-items: stretch !important;
+}
+.desktop\:ext-justify-start {
+justify-content: flex-start !important;
+}
+.desktop\:ext-justify-end {
+justify-content: flex-end !important;
+}
+.desktop\:ext-justify-center {
+justify-content: center !important;
+}
+.desktop\:ext-justify-between {
+justify-content: space-between !important;
+}
+.desktop\:ext-justify-around {
+justify-content: space-around !important;
+}
+.desktop\:ext-justify-evenly {
+justify-content: space-evenly !important;
+}
+.desktop\:ext-justify-items-start {
+justify-items: start !important;
+}
+.desktop\:ext-justify-items-end {
+justify-items: end !important;
+}
+.desktop\:ext-justify-items-center {
+justify-items: center !important;
+}
+.desktop\:ext-justify-items-stretch {
+justify-items: stretch !important;
+}
+.desktop\:ext-justify-self-auto {
+justify-self: auto !important;
+}
+.desktop\:ext-justify-self-start {
+justify-self: start !important;
+}
+.desktop\:ext-justify-self-end {
+justify-self: end !important;
+}
+.desktop\:ext-justify-self-center {
+justify-self: center !important;
+}
+.desktop\:ext-justify-self-stretch {
+justify-self: stretch !important;
+}
+.desktop\:ext-p-0:not([style*="padding"]) {
+padding: 0 !important;
+}
+.desktop\:ext-p-base:not([style*="padding"]) {
+padding: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-p-lg:not([style*="padding"]) {
+padding: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-px-0:not([style*="padding"]) {
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+.desktop\:ext-px-base:not([style*="padding"]) {
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-px-lg:not([style*="padding"]) {
+padding-left: var(--extendify--spacing--large, 3rem) !important;
+padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-py-0:not([style*="padding"]) {
+padding-top: 0 !important;
+padding-bottom: 0 !important;
+}
+.desktop\:ext-py-base:not([style*="padding"]) {
+padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-py-lg:not([style*="padding"]) {
+padding-top: var(--extendify--spacing--large, 3rem) !important;
+padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-pt-0:not([style*="padding"]) {
+padding-top: 0 !important;
+}
+.desktop\:ext-pt-base:not([style*="padding"]) {
+padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-pt-lg:not([style*="padding"]) {
+padding-top: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-pr-0:not([style*="padding"]) {
+padding-right: 0 !important;
+}
+.desktop\:ext-pr-base:not([style*="padding"]) {
+padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-pr-lg:not([style*="padding"]) {
+padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-pb-0:not([style*="padding"]) {
+padding-bottom: 0 !important;
+}
+.desktop\:ext-pb-base:not([style*="padding"]) {
+padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-pb-lg:not([style*="padding"]) {
+padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-pl-0:not([style*="padding"]) {
+padding-left: 0 !important;
+}
+.desktop\:ext-pl-base:not([style*="padding"]) {
+padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+.desktop\:ext-pl-lg:not([style*="padding"]) {
+padding-left: var(--extendify--spacing--large, 3rem) !important;
+}
+.desktop\:ext-text-left {
+text-align: left !important;
+}
+.desktop\:ext-text-center {
+text-align: center !important;
+}
+.desktop\:ext-text-right {
+text-align: right !important;
+}
+}
+</style>
+<!-- <link rel='stylesheet' id='trydo-feather-icons-css' href='https://bhumi.ngo/wp-content/plugins/trydo-core/assets/css/feather.css?ver=1.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-event-manager-jquery-timepicker-css-css' href='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.css?ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ivory-search-styles-css' href='https://bhumi.ngo/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/7msbzvfo/2e9m8.css" media="all"/>
+<link rel='stylesheet' id='trydo-fonts-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C400i%2C500%2C600%2C700%2C800%2C900%7CPoppins%3A300%2C400%2C500%2C600%2C700%2C700i&#038;subset=latin%2Clatin-ext&#038;ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='bootstrap-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/bootstrap.min.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='lightbox-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/lightbox.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='magnific-popup-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/magnific-popup.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/fontawesome.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='slick-slider-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/slick-slider.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='animation-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/animation.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='feather-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/vendor/feather.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='trydo-style-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/style.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='trydo-woocommerce-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/woocommerce.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='trydo-dev-style-css' href='https://bhumi.ngo/wp-content/themes/trydo/assets/css/dev-style.css?ver=1.4.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-css' href='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://bhumi.ngo/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-frontend-css' href='https://bhumi.ngo/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/10hutwp1/2e9m8.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-1107-css' href='https://bhumi.ngo/wp-content/uploads/elementor/css/post-1107.css?ver=1674153181' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='elementor-pro-css' href='https://bhumi.ngo/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.6.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/76rknrjo/2e9m8.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-2060-css' href='https://bhumi.ngo/wp-content/uploads/elementor/css/post-2060.css?ver=1679031672' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='eael-general-css' href='https://bhumi.ngo/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.5.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/feiqgl9n/2e9m8.css" media="all"/>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat:400%7CLibre%20Baskerville:700,400&#038;display=swap&#038;ver=1674131234" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400%7CLibre%20Baskerville:700,400&#038;display=swap&#038;ver=1674131234" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400%7CLibre%20Baskerville:700,400&#038;display=swap&#038;ver=1674131234" /></noscript><link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Libre+Baskerville%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5855420de7b2a4c0ff23592bd298aae6' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/q7c9ul4j/2e9v7.css" media="all"/>
+<script src='//bhumi.ngo/wp-content/cache/wpfc-minified/1e3n1uxr/2e9m8.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script> -->
+<!-- <script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
+<script type='text/javascript' id='wpm-6310-ajax-script-js-extra'>
+/* <![CDATA[ */
+var my_ajax_object = {"ajax_url":"https:\/\/bhumi.ngo\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src='//bhumi.ngo/wp-content/cache/wpfc-minified/dqngrina/2e9m8.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/team-showcase-supreme/assets/js/ajaxdata.js?ver=5855420de7b2a4c0ff23592bd298aae6' id='wpm-6310-ajax-script-js'></script> -->
+<!-- <script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/vendor/stellar.js?ver=1.4.0' id='stellar-js'></script> -->
+<!-- <script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/parallax.js?ver=1.4.0' id='parallax-js'></script> -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-19738087-9' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["bhumi.ngo"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-19738087-9", {"anonymize_ip":true});
+gtag("config", "G-YB30BBEZWL");
+</script>
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://bhumi.ngo/wp-json/" /><link rel="alternate" type="application/json" href="https://bhumi.ngo/wp-json/wp/v2/pages/2060" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bhumi.ngo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bhumi.ngo/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://bhumi.ngo/?p=2060' />
+<link rel="alternate" type="application/json+oembed" href="https://bhumi.ngo/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbhumi.ngo%2Fabout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bhumi.ngo/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbhumi.ngo%2Fabout%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.94.0" /><!-- Global site tag (gtag.js) - Google Ads: 1014174879 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1014174879"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'AW-1014174879');
+</script>
+<meta name="generator" content="Redux 4.3.26" />
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Bhumi org"};
+dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP5DNH7');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<script>
+document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+</script>
+<style>
+.no-js img.lazyload { display: none; }
+figure.wp-block-image img.lazyloading { min-width: 150px; }
+.lazyload, .lazyloading { opacity: 0; }
+.lazyloaded {
+opacity: 1;
+transition: opacity 400ms;
+transition-delay: 0ms;
+}
+</style>
+<!--Customizer CSS-->
+<style type="text/css">
+/************************************************************************************
+* General
+************************************************************************************/
+/* Primary [#702FFF] */
+:root { --color-primary:#81d742; }                        :root { --color-primary-from:#e28b22; }            :root { --color-primary-to:#75ac39; }
+button.rn-button-style--2:hover, a.rn-button-style--2:hover, a.wp-block-button__link:hover, input[type=submit]:hover { box-shadow: 0 10px 15px 0 rgba(129,215,66,0.1); }
+/* Gradient Angle */
+.single-service.service__style--4::before { background-image: linear-gradient(90deg, #e28b22, #75ac39); }            .theme-gradient { background-image: linear-gradient(145deg, #e28b22, #75ac39); }            .single-service.service__style--2 a::before { background-image: linear-gradient(to right, #e28b22, #75ac39); }
+/* Gradient Percentage */
+.portfolio .thumbnail-inner::before { background-image: linear-gradient(#e28b22 10%, #000000 100%); }            .blog.blog-style--1 .thumbnail a::after { background-image: linear-gradient(#e28b22 10%, #000000 100%); }
+/* Gradient Angle Percentage */
+.footer-default .footer-left { background-image: linear-gradient(145deg, #e28b22 10%, #75ac39 100%); }            .call-to-action, .blog-single-page-title .title, .breadcrumb-inner .title, .rn-pricing::before, .single-service.service__style--4::before, .single-service.service__style--5::before { background-image: linear-gradient(145deg, #e28b22 0%, #75ac39 100%); }            .team .thumbnail::after { background-image: linear-gradient(to bottom, #e28b22 0, #000000 100%); }            .rn-pagination .post-page-numbers.current, .page-links .post-page-numbers.current, .rn-pagination .post-page-numbers::before, .page-links .post-page-numbers::before, .rn-pagination ul.page-numbers li .current, .rn-pagination ul.page-list li .current, .rn-pagination ul.page-numbers li a::before, .rn-pagination ul.page-list li a::before { background-image: linear-gradient(-259deg, #e28b22 0, #75ac39 100%); }
+/************************************************************************************
+* Header
+************************************************************************************/
+/* Link Color */
+.header-area.header--transparent .mainmenunav ul.mainmenu > li > a, .header-area.header-style-two.header--transparent .mainmenunav ul.mainmenu > li > a, ul.social-share.social-style--2.color-black li a, .header-area.header-style-two.header--transparent .header-wrapper a.rn-btn, .header-area.header--transparent .header-wrapper a.rn-btn, .humberger-menu span svg, .active-dark .header-area.header-style-two.header--transparent .mainmenunav ul.mainmenu > li > a, .active-dark ul.social-share.social-style--2.color-black li a, .active-dark .header-area.header-style-two.header--transparent .header-wrapper a.rn-btn, .color-black .mainmenunav ul.mainmenu > li > a, .header-area.color-black a.rn-btn { color  :#c1c1c1; }            .header-area.header-style-two.header--transparent .header-wrapper a.rn-btn, .header-area.header--transparent .header-wrapper a.rn-btn, .active-dark .header-area.header-style-two.header--transparent .header-wrapper a.rn-btn, .header-area.color-black a.rn-btn { border-color  :#c1c1c1; }
+/* Link Color after sticky and dropdown */
+.header-area.sticky-bg-black.header--sticky.sticky .header-wrapper .mainmenunav ul.mainmenu > li > a, .header-area.sticky-bg-black.header--sticky.sticky .header-wrapper a.rn-btn, .mainmenunav ul.mainmenu > li ul.submenu li > a, .header-area.header--sticky.sticky ul.social-share.social-style--2.color-black li a, .header-area.header-style-two.header--sticky.sticky .mainmenunav ul.mainmenu > li > a,  .header-area.header-style-two.sticky .header-wrapper a.rn-btn, .active-dark .header-area.header--sticky.sticky .header-wrapper a.rn-btn { color  :#000000; }            .header-area.sticky-bg-black.header--sticky.sticky .header-wrapper a.rn-btn, .header-area.header-style-two.sticky .header-wrapper a.rn-btn, .active-dark .header-area.header--sticky.sticky .header-wrapper a.rn-btn { border-color  :#000000; }            .header-area .header-wrapper .mainmenunav ul.mainmenu li.has-droupdown > a::after { border-top-color  :#000000; }            .header-area.header--sticky.sticky ul.social-share.social-style--2.color-black li a:hover, .header-area.header--sticky.sticky ul.social-share.social-style--2.color-black li a:hover, .header-area.header-style-two.header--sticky.sticky .mainmenunav ul.mainmenu > li:hover > a, .active-dark ul.social-share.social-style--2.color-black li a:hover { color  :#81d742; }
+.header-area.sticky-bg-black.header--sticky.sticky, .active-dark .header-area.header--sticky.sticky, .header-area.header--sticky.sticky { background  :#81d742; }            
+/************************************************************************************
+* Footer
+************************************************************************************/
+/* Heading Color */
+/* Text Color */
+/* Link Color */
+/* Copyright Color */
+</style>
+<!--/Customizer CSS-->
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense snippet added by Site Kit -->
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script type="text/javascript">
+( function( w, d, s, l, i ) {
+w[l] = w[l] || [];
+w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+var f = d.getElementsByTagName( s )[0],
+j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore( j, f );
+} )( window, document, 'script', 'dataLayer', 'GTM-TP5DNH7' );
+</script>
+<!-- End Google Tag Manager snippet added by Site Kit -->
+<link rel="icon" href="https://bhumi.ngo/wp-content/uploads/2020/12/cropped-Bhumi-Torchbearer-Logo-White-1500-Square-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://bhumi.ngo/wp-content/uploads/2020/12/cropped-Bhumi-Torchbearer-Logo-White-1500-Square-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://bhumi.ngo/wp-content/uploads/2020/12/cropped-Bhumi-Torchbearer-Logo-White-1500-Square-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://bhumi.ngo/wp-content/uploads/2020/12/cropped-Bhumi-Torchbearer-Logo-White-1500-Square-270x270.jpg" />
+<style id="trydo_options-dynamic-css" title="dynamic-css" class="redux-options-output">body, p{font-family:Montserrat;line-height:20px;font-weight:400;font-style:normal;font-size:20px;font-display:swap;}h1, .h1{font-family:"Libre Baskerville";line-height:40px;font-weight:700;font-style:normal;font-size:40px;font-display:swap;}h2, .h2{font-family:"Libre Baskerville";line-height:35px;font-weight:400;font-style:normal;font-size:35px;font-display:swap;}h3, .h3{font-family:"Libre Baskerville";line-height:30px;font-weight:400;font-style:normal;font-size:30px;font-display:swap;}h4, .h4{font-family:"Libre Baskerville";line-height:25px;font-weight:400;font-style:normal;font-size:25px;font-display:swap;}h5, .h5{font-family:Montserrat;line-height:25px;font-weight:400;font-style:normal;font-size:18px;font-display:swap;}h6, .h6{font-family:Montserrat;line-height:16px;font-weight:400;font-style:normal;font-size:16px;font-display:swap;}</style>			<style type="text/css">
+.is-form-id-26941 .is-search-submit:focus,
+.is-form-id-26941 .is-search-submit:hover,
+.is-form-id-26941 .is-search-submit,
+.is-form-id-26941 .is-search-icon {
+background-color: #7eb738 !important;            			}
+</style>
+</head>
+<body class="page-template page-template-elementor_header_footer page page-id-2060 page-parent wp-embed-responsive trydo active-scroll-to-top active-preloader  root-header-transparent   elementor-default elementor-template-full-width elementor-kit-1107 elementor-page elementor-page-2060" ><!-- Google Tag Manager (noscript) -->
+<noscript><iframe 
+height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-TP5DNH7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Trydo Preloader -->
+<div class="preloader">
+<div class='loader'>
+<div class='circle'></div>
+<div class='circle'></div>
+<div class='circle'></div>
+<div class='circle'></div>
+<div class='circle'></div>
+</div>
+</div>		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+<noscript>
+<iframe  height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-TP5DNH7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+<div class="main-page ">        <div id="my_switcher" class="my_switcher">
+<ul>
+<li>
+<a href="javascript: void(0);" data-theme="light" class="setColor light">
+<img  alt="Sun images" data-src="https://bhumi.ngo/wp-content/themes/trydo/assets/images/icons/sun-01.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://bhumi.ngo/wp-content/themes/trydo/assets/images/icons/sun-01.svg" alt="Sun images"></noscript>
+<span title="Light Mode">Light</span>
+</a>
+</li>
+<li>
+<a href="javascript: void(0);" data-theme="dark" class="setColor dark">
+<img  alt="Vector Images" data-src="https://bhumi.ngo/wp-content/themes/trydo/assets/images/icons/vector.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://bhumi.ngo/wp-content/themes/trydo/assets/images/icons/vector.svg" alt="Vector Images"></noscript>
+<span title="Dark Mode">Dark</span>
+</a>
+</li>
+</ul>
+</div>
+<header class="header-area sticky-bg-black formobile-menu black-logo-version   header--transparent ">
+<div class="header-wrapper" id="header-wrapper">
+<div class="header-left">
+<div class="logo">
+<a href="https://bhumi.ngo/"
+title="Bhumi" rel="home">
+<img  
+alt="Bhumi" data-src="data:image/png;base64,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" class="logo-normal lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="logo-normal" src="https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG.png"
+alt="Bhumi"></noscript>
+</a>
+</div>
+</div>
+<div class="header-right">
+<div class="full-overlay"></div>
+<nav class="mainmenunav d-lg-block"><ul id="mainmenu" class="mainmenu"><li id="menu-item-26258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26258"><a href="working website.html">Home</a></li>
+<li id="menu-item-35070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35070"><a href="ll.html">Team</a></li>
+<li id="menu-item-35070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35070"><a href="io.html">Contact us</a></li>
+</ul>
+</li>
+</ul></nav>
+<!-- Mini cart-->
+<div class="header-btn">
+<a class="rn-btn" href="/join-us/volunteer?utm_source=Header&#038;utm_medium=Bhumi_Website&#038;utm_campaign=Volunteer&#038;source=Bhumi_Website%20Header">
+<span>Volunteer</span>
+</a>
+</div>
+<!-- Start Humberger Menu  -->
+<div class="humberger-menu d-block d-lg-none pl--20">
+<span class="menutrigger text-white">
+<i data-feather="menu"></i>
+</span>
+</div>
+<!-- End Humberger Menu  -->
+<!-- Start Close Menu  -->
+<div class="close-menu d-block d-lg-none">
+<span class="closeTrigger">
+<i data-feather="x"></i>
+</span>
+</div>
+<!-- End Close Menu  -->
+</div>
+</div>
+</header><!-- Start Page Wrapper  -->
+<main class="page-wrapper">
+<div data-elementor-type="wp-page" data-elementor-id="2060" class="elementor elementor-2060" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-d484561 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d484561" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-522f0a5" data-id="522f0a5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5c9dbfb rbt-section-height-default elementor-widget elementor-widget-trydo-main-slider" data-id="5c9dbfb" data-element_type="widget" data-widget_type="trydo-main-slider.default">
+<div class="elementor-widget-container">
+<!-- Start Slider Area  -->
+<div id="trydo-main-slider-5c9dbfb" class="slider-activation rn-slick-dot rn-slick-activation dot-light mb--0 " data-settings="{&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;autoplay&quot;:false,&quot;autoplay_speed&quot;:0,&quot;infinite&quot;:true}">
+<!-- Start Single Slider  -->
+<div class="rbt-height-control slide slide-style-2 d-flex align-items-center justify-content-center bg_image elementor-repeater-item-b7bf432"  data-black-overlay="3"  >
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="inner text-center">
+<h2 class="title theme-gradient">Change Today ... Change Tomorrow </h2>                                        
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Single Slider  -->
+</div>
+<!-- End Slider Area  -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-256cb04 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="256cb04" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fab47e3" data-id="fab47e3" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-10aea25 elementor-widget elementor-widget-trydo-about" data-id="10aea25" data-element_type="widget" data-widget_type="trydo-about.default">
+<div class="elementor-widget-container">
+<!-- Start About Area  -->
+<div class="about-area pb--120 about-position-top">
+<div class="about-wrapper">
+<div class="container">
+<div class="row row--35 align-items-center">
+<div class="col-lg-5 col-md-12">
+<div class="thumbnail">
+<img width="1280" height="853"   alt="paid volunteer work near me" decoding="async" data-srcset="https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM.jpeg 1280w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-300x200.jpeg 300w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-1024x682.jpeg 1024w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-768x512.jpeg 768w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-650x433.jpeg 650w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-20x13.jpeg 20w"  data-src="https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM.jpeg" data-sizes="(max-width: 1280px) 100vw, 1280px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1280" height="853" src="https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM.jpeg" class="attachment-full size-full" alt="paid volunteer work near me" decoding="async" srcset="https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM.jpeg 1280w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-300x200.jpeg 300w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-1024x682.jpeg 1024w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-768x512.jpeg 768w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-650x433.jpeg 650w, https://bhumi.ngo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-28-at-9.50.16-AM-20x13.jpeg 20w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript>                            </div>
+</div>
+<div class="col-lg-7 col-md-12">
+<div class="about-inner inner">
+<div class="section-title text-left">
+<h2 class="title rbt-section-title"><span>Transforming together​</span></h2>                            <p>Bhumi was founded on August 15, 2006 by a group of friends,  who believed that every underprivileged child deserves quality education. Since then, Bhumi has transformed this conviction into a volunteering opportunity for India’s youth, launching a snowball effect of nurturing talent on the path to an educated, poverty-free India.</p>
+</div>
+<div class="row mt--30 mt_sm--10">
+<div class="col-lg-6 col-md-12 col-sm-12 col-12">
+<div class="about-us-list text-left">
+<h4 class="title rbt-section-title title rbt-section-title"><span>Vision</span></h4>                            <p>To help build a more influential, equal and socially conscious society.
+</p>
+</div>
+</div>
+<div class="col-lg-6 col-md-12 col-sm-12 col-12">
+<div class="about-us-list text-left">
+<h4 class="title rbt-section-title title rbt-section-title title rbt-section-title"><span>Mission</span></h4>                            <p>To drive social change by fostering an environment where young adults and children learn, lead, and thrive</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Start About Area  -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1aef4c9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1aef4c9" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bfacd86" data-id="bfacd86" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-27a3adb elementor-widget elementor-widget-trydo-about" data-id="27a3adb" data-element_type="widget" data-widget_type="trydo-about.default">
+<div class="elementor-widget-container">
+<!-- Start About Area  -->
+<div class="about-area pb--120 about-position-top">
+<div class="about-wrapper">
+<div class="container">
+<div class="row row--35 align-items-center">
+<div class="col-lg-5 col-md-12">
+<div class="thumbnail">
+<img width="1024" height="682"   alt="volunteer groups" decoding="async" data-srcset="https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f.jpg 1024w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-300x200.jpg 300w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-768x512.jpg 768w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-650x433.jpg 650w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-20x13.jpg 20w"  data-src="https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="682" src="https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f.jpg" class="attachment-full size-full" alt="volunteer groups" decoding="async" srcset="https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f.jpg 1024w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-300x200.jpg 300w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-768x512.jpg 768w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-650x433.jpg 650w, https://bhumi.ngo/wp-content/uploads/2021/08/GetPaidStock.com-61176e4f6e81f-20x13.jpg 20w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                            </div>
+</div>
+<div class="col-lg-7 col-md-12">
+<div class="about-inner inner">
+<div class="section-title text-left">
+<h2 class="title rbt-section-title"><span>Values </span></h2>                            <p>Bhumi believes that the culture of our organisation is built over the years, because of the deep rooted value system that we believe in. These values are what we aspire to translate in all our stakeholders and our work. 
+</p>
+</div>
+<div class="row mt--30 mt_sm--10">
+<div class="col-lg-6 col-md-12 col-sm-12 col-12">
+<div class="about-us-list text-left">
+<h4 class="title rbt-section-title title rbt-section-title"><span></span></h4>                                                            </div>
+</div>
+<div class="col-lg-6 col-md-12 col-sm-12 col-12">
+<div class="about-us-list text-left">
+<h4 class="title rbt-section-title title rbt-section-title title rbt-section-title"><span></span></h4>                                                            </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Start About Area  -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-550f758 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="550f758" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9305713" data-id="9305713" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7ef2bb1 elementor-cta--layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="7ef2bb1" data-element_type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<div class="elementor-cta">
+<div class="elementor-cta__bg-wrapper">
+<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://bhumi.ngo/wp-content/uploads/2021/08/Untitled-design-63-500x420.png);"></div>
+<div class="elementor-cta__bg-overlay"></div>
+</div>
+<div class="elementor-cta__content">
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Ownership </h2>
+<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+<h5>High accountability to our responsibilities and to inner conscience. Rooted in the values of proactive, demonstrating continuous improvement and volunteerism. 
+</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-145979a" data-id="145979a" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-6e679b3 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="6e679b3" data-element_type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<div class="elementor-cta">
+<div class="elementor-cta__bg-wrapper">
+<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://bhumi.ngo/wp-content/uploads/2021/08/Untitled-design-64.png);"></div>
+<div class="elementor-cta__bg-overlay"></div>
+</div>
+<div class="elementor-cta__content">
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Collaboration </h2>
+<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+<h5>Coming together of people and organisations for a shared purpose leading to the greater good. We strongly believe together we can do more for a better society.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1e9d253" data-id="1e9d253" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-91ec010 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="91ec010" data-element_type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<div class="elementor-cta">
+<div class="elementor-cta__bg-wrapper">
+<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://bhumi.ngo/wp-content/uploads/2021/08/Untitled-design-68.png);"></div>
+<div class="elementor-cta__bg-overlay"></div>
+</div>
+<div class="elementor-cta__content">
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Nurturing Care </h2>
+<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+<h5>Rooted in growth and biased to action. It means caring about our people, our cause, and the quality of our work. It is an evolved version of the values nurture and empathy.
+</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-177b3e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="177b3e2" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ee24da4" data-id="ee24da4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-e916f4a elementor-widget elementor-widget-spacer" data-id="e916f4a" data-element_type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-d779d75 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d779d75" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e8ad595" data-id="e8ad595" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4952c61 elementor-widget elementor-widget-trydo-about" data-id="4952c61" data-element_type="widget" data-widget_type="trydo-about.default">
+<div class="elementor-widget-container">
+<!-- Start About Area  -->
+<div class="about-area pb--120 about-position-top">
+<div class="about-wrapper">
+<div class="container">
+<div class="row row--35 align-items-center">
+<div class="col-lg-5 col-md-12">
+<div class="thumbnail">
+<img width="1024" height="682"   alt="education ngo" decoding="async" data-srcset="data:image/png;base64,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" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="682" src="https://bhumi.ngo/wp-content/uploads/2021/09/GetPaidStock.com-612f3e3ca8381.jpg" class="attachment-full size-full" alt="education ngo" decoding="async" srcset="https://bhumi.ngo/wp-content/uploads/2021/09/GetPaidStock.com-612f3e3ca8381.jpg 1024w, https://bhumi.ngo/wp-content/uploads/2021/09/GetPaidStock.com-612f3e3ca8381-300x200.jpg 300w, https://bhumi.ngo/wp-content/uploads/2021/09/GetPaidStock.com-612f3e3ca8381-768x512.jpg 768w, https://bhumi.ngo/wp-content/uploads/2021/09/GetPaidStock.com-612f3e3ca8381-650x433.jpg 650w, https://bhumi.ngo/wp-content/uploads/2021/09/GetPaidStock.com-612f3e3ca8381-20x13.jpg 20w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>                            </div>
+</div>
+<div class="col-lg-7 col-md-12">
+<div class="about-inner inner">
+<div class="section-title text-left">
+<h2 class="title rbt-section-title"><span>Programme Vision (2018-2028)</span></h2>                            <p><b>Ignite: </b><br>
+Bhumi will work towards providing holistic education and enabling sustainable livelihoods for 5,000 children in the next ten years.
+<br>
+For this we will focus on increasing impact and sustainability in shelter homes, communities and schools <br>
+- The volunteer-driven programme at shelter homes will be strengthened for higher effectiveness. <br>
+- The school programme will focus on improving student learning outcomes
+<br>
+- The communities programme will improve the community’s ownership on their children’s education <br>
+<b>Catalyse: </b><br>
+Bhumi will continue to strive to make volunteering a national habit. We will drive sustainable development goals through impactful volunteer programmes clocking crore hours in volunteering. <br>
+Bhumi, as a platform, will groom at least 20% of volunteers as change leaders for society.</p>
+</div>
+<div class="row mt--30 mt_sm--10">
+<div class="col-lg-6 col-md-12 col-sm-12 col-12">
+<div class="about-us-list text-left">
+<h4 class="title rbt-section-title title rbt-section-title"><span></span></h4>                                                            </div>
+</div>
+<div class="col-lg-6 col-md-12 col-sm-12 col-12">
+<div class="about-us-list text-left">
+<h4 class="title rbt-section-title title rbt-section-title title rbt-section-title"><span></span></h4>                                                            </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Start About Area  -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0f56aa8 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="0f56aa8" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dc128b8" data-id="dc128b8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b08c28c elementor-widget elementor-widget-trydo-services" data-id="b08c28c" data-element_type="widget" data-widget_type="trydo-services.default">
+<div class="elementor-widget-container">
+<!-- Start Service Area  -->
+<div class="rn-service-area ptb--80 bg_image bg_image--3 overlay">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-12">
+<div class="section-title mt--30 mt_md--5 mt_sm--5 mb_md--20 mb_sm--20 text-left">
+<span class="sub-title">Where we work</span>
+<h2 class="title rbt-section-title"><span>Our Chapters</span></h2>                            <p>Bhumi is currently operating in multiple cities across India, engaging more than 30,000 volunteers every year. We fuel change by identifying problems that are widespread globally and then scale solutions to a local level.
+</p>
+</div>
+</div>
+<div class="col-lg-8 col-12 mt_md--50">
+<div class="row service-one-wrapper">
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-14c9b0f">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Chennai</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-bc4062c">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Mumbai</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-fe57755">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Kolkata</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-3431c2e">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Bengaluru</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer/bengaluru/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-0504099">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Pune</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer/pune/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-d2d847c">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Delhi</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="https://bhumi.ngo/join/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-830282a">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Hyderabad</h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-c32e236">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Patna </h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="https://bhumi.ngo/join/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+<!-- Start Single Service  -->
+<div class="service-item col-lg-2 col-md-6 col-sm-6 col-12 elementor-repeater-item-b2bf529">
+<div class="standard-service ">
+<div class="thumbnai">
+<i aria-hidden="true" class="fas fa-star"></i>                                                    </div>
+<div class="content">
+<h5>Trichy </h5>                                                                                                                                                                                                     <a class="btn-transparent rn-btn-dark"  href="/join-us/volunteer/"  ><span class="text">Volunteer</span></a>
+</div>
+</div>
+</div>
+<!-- End Single Service  -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Start Service Area  -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</main>
+<!-- End Page Wrapper -->
+<footer class="footer-area footer-default">
+<div class="footer-wrapper">
+<div class="row align-items-end row--0">
+<div class="col-lg-6">
+<div class="footer-left">
+<div class="inner">
+<span>READY TO DO THIS</span>
+<h2>Let&#039;s get to work</h2>
+<a class="rn-button-style--2" href="io.html">
+<span>CONTACT US</span>
+</a>
+<img  alt="footer shape image" data-src="https://bhumi.ngo/wp-content/themes/trydo/assets/images/logo/big-logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://bhumi.ngo/wp-content/themes/trydo/assets/images/logo/big-logo.png" alt="footer shape image"></noscript>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="footer-right" data-black-overlay="6">
+<div class="row">
+<!-- Start Single Widget -->
+<div class="col-lg-6 col-sm-6 col-12">
+<div class="footer-widget">
+<div id="media_image-2" class="footer-widget widget widget_media_image"><img width="150" height="109"   alt="ngo services in india" decoding="async" style="max-width: 100%; height: auto;" data-srcset="data:image/png;base64,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"  data-src="https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG-300x218.png" data-sizes="(max-width: 150px) 100vw, 150px" class="image wp-image-1256  attachment-150x109 size-150x109 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="109" src="https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG-300x218.png" class="image wp-image-1256  attachment-150x109 size-150x109" alt="ngo services in india" decoding="async" style="max-width: 100%; height: auto;" srcset="https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG-300x218.png 300w, https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG-1024x742.png 1024w, https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG-768x557.png 768w, https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG-20x15.png 20w, https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG.png 1502w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></div>                                </div>
+</div><!-- End Single Widget -->
+<!-- Start Single Widget -->
+<div class="col-lg-6 col-sm-6 col-12 mt_mobile--30">
+<div class="footer-widget">
+<div id="search-2" class="footer-widget widget widget_search"><h4 class="title">Search</h4><div class="inner">
+<form id="search-2" action="ee.html" method="GET" class="blog-search">
+<input type="text"  name="s"  placeholder="Search ..." value=""/>
+<button class="search-button"><i class="rbt feather-search"></i></button>
+<input type="hidden" name="post_type" value="post" /></form>
+</div></div>                                </div>
+</div><!-- End Single Widget -->
+<div class="col-lg-12">
+<div class="copyright-text">
+<p>©Bhumi | <a href="https://bhumi.ngo/partner/ngo/tech4change/">Tech4Change</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- End main page -->
+<div id='invtrflfloatbtn'></div>
+<script>	
+var ir = ir || function(){(window.ir.q = window.ir.q || []).push(arguments)};
+var invite_referrals = window.invite_referrals || {}; (function() { 
+invite_referrals.auth = { 
+bid_e : '574ADA580CB6D840271F04F0284EDE85',
+bid : '31540',
+sso_key : 'ce07301ec8bce8749dbe52c0b0269fa9',
+rt : '1685427512', 
+email : '',
+t : '420', email : '',
+userParams : {'fname' : ''} };	
+var script = document.createElement('script');script.async = true;
+script.src = '//cdn.invitereferrals.com/js/invite-referrals-1.0.js';
+var entry = document.getElementsByTagName('script')[0];entry.parentNode.insertBefore(script, entry); })();
+</script>
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe  height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true" data-src="https://www.googletagmanager.com/ns.html?id=GTM-TP5DNH7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- <link rel='stylesheet' id='redux-custom-fonts-css-css' href='//bhumi.ngo/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1685427512' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-animations-css' href='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//bhumi.ngo/wp-content/cache/wpfc-minified/dhaxklc7/2esib.css" media="all"/>
+<script type='text/javascript' id='essential-blocks-blocks-localize-js-extra'>
+/* <![CDATA[ */
+var EssentialBlocksLocalize = {"eb_plugins_url":"https:\/\/bhumi.ngo\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"https:\/\/bhumi.ngo\/wp-admin\/","rest_rootURL":"https:\/\/bhumi.ngo\/wp-json\/","ajax_url":"https:\/\/bhumi.ngo\/wp-admin\/admin-ajax.php","nft_nonce":"72578dcc9b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8' id='essential-blocks-blocks-localize-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/common.min.js?ver=3.1.33' id='wp-event-manager-common-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.33' id='wp-event-manager-jquery-ui-daterangepicker-js'></script>
+<script type='text/javascript' id='wp-event-manager-content-event-listing-js-extra'>
+/* <![CDATA[ */
+var event_manager_content_event_listing = {"i18n_initialText":"Select date range","i18n_applyButtonText":"Apply","i18n_clearButtonText":"Clear","i18n_cancelButtonText":"Cancel","i18n_today":"Today","i18n_tomorrow":"Tomorrow","i18n_thisWeek":"This Week","i18n_nextWeek":"Next Week","i18n_thisMonth":"This Month","i18n_nextMonth":"Next Month","i18n_thisYear":"This Year","i18n_nextYear":"Next Month"};
+var event_manager_content_event_listing = {"i18n_datepicker_format":"yy-mm-dd","i18n_initialText":"Select Date Range","i18n_applyButtonText":"Apply","i18n_clearButtonText":"Clear","i18n_cancelButtonText":"Cancel","i18n_monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"i18n_today":"Today","i18n_tomorrow":"Tomorrow","i18n_thisWeek":"This Week","i18n_nextWeek":"Next Week","i18n_thisMonth":"This Month","i18n_nextMonth":"Next Month","i18n_thisYear":"This Year","i18n_nextYear":"Next Year"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.33' id='wp-event-manager-content-event-listing-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1' id='jquery-deserialize-js'></script>
+<script type='text/javascript' id='wp-event-manager-ajax-filters-js-extra'>
+/* <![CDATA[ */
+var event_manager_ajax_filters = {"ajax_url":"https:\/\/bhumi.ngo\/em-ajax\/get_listings\/","is_rtl":"0","lang":null};
+var event_manager_ajax_filters = {"ajax_url":"\/em-ajax\/%%endpoint%%\/","is_rtl":"0","lang":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.33' id='wp-event-manager-ajax-filters-js'></script>
+<script type='text/javascript' id='trydo-core-ajax-js-extra'>
+/* <![CDATA[ */
+var trydo_portfolio_ajax = {"ajax_url":"https:\/\/bhumi.ngo\/wp-admin\/admin-ajax.php","ajax_nonce":"843844f8aa"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/trydo-core/assets/js/ajax-scripts.js' id='trydo-core-ajax-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/trydo-core/assets/js/element-scripts.js?ver=1.0' id='trydo-element-scripts-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.js?ver=3.1.33' id='wp-event-manager-jquery-timepicker-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/vendor/bootstrap.min.js?ver=1.4.0' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/vendor/particles.js?ver=1.4.0' id='particles-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/vendor/isotope.js?ver=1.4.0' id='isotope-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/counterup.js?ver=1.4.0' id='counterup-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/feather-icons.js?ver=1.4.0' id='feather-icons-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/lightgallery.js?ver=1.4.0' id='lightgallery-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/jquery.magnific-popup.min.js?ver=1.4.0' id='jquery-magnific-popup-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/scrollup.js?ver=1.4.0' id='scrollup-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/slick.js?ver=1.4.0' id='slick-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/waypoints.js?ver=1.4.0' id='waypoints-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/plugins/wow.js?ver=1.4.0' id='wow-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/vendor/js.cookie.js?ver=1.4.0' id='trydo-cookie-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/main.js?ver=1.4.0' id='trydo-main-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/js/vendor/jquery.style.switcher.js?ver=1.4.0' id='jquery-style-switcher-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/admin/js/navigation.js?ver=1.4.0' id='trydo-navigation-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/themes/trydo/assets/admin/js/skip-link-focus-fix.js?ver=1.4.0' id='trydo-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.12.5' id='smush-lazy-load-js'></script>
+<script type='text/javascript' id='eael-general-js-extra'>
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https:\/\/bhumi.ngo\/wp-admin\/admin-ajax.php","nonce":"d151e60d23","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping"},"page_permalink":"https:\/\/bhumi.ngo\/about\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.5.5' id='eael-general-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5' id='ivory-search-scripts-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.2' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/gutenberg/build/vendors/inert-polyfill.min.js?ver=5855420de7b2a4c0ff23592bd298aae6' id='wp-inert-polyfill-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/gutenberg/build/hooks/index.min.js?ver=b68e9bf6562f8d63a320' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/gutenberg/build/i18n/index.min.js?ver=3d2aeabd3f84698c0e2c' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/bhumi.ngo\/wp-admin\/admin-ajax.php","nonce":"528e6c78fa","urls":{"assets":"https:\/\/bhumi.ngo\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/bhumi.ngo\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/bhumi.ngo\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.2' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.5.5' id='share-link-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/bhumi.ngo\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2060,"title":"About%20-%20Bhumi","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.6.2' id='pro-preloaded-elements-handlers-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.5.5' id='preloaded-modules-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.2' id='e-sticky-js'></script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-includes/js/wp-util.min.js?ver=5855420de7b2a4c0ff23592bd298aae6' id='wp-util-js'></script>
+<script type='text/javascript' id='wpforms-elementor-js-extra'>
+/* <![CDATA[ */
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bhumi.ngo/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.0.1' id='wpforms-elementor-js'></script>
+<!-- Ybug code start (https://ybug.io) -->
+<script type='text/javascript'>
+(function() {
+window.ybug_settings = {"id":"kfqzngr74d8w5k6qywqa"};
+var ybug = document.createElement('script'); ybug.type = 'text/javascript'; ybug.async = true;
+ybug.src = 'https://widget.ybug.io/button/'+window.ybug_settings.id+'.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ybug, s);
+})();
+</script>
+<!-- Ybug code end --></body>
+</html><!-- WP Fastest Cache file was created in 0.82133722305298 seconds, on 30-05-23 11:48:32 --><!-- via php -->

@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Document</title>
+</head>
+<style>
+.mj
+{
+    color: white;
+    position: relative;
+    height: -4px;
+    width: 1641px;
+    text-align: center;
+    top: -109px;
+    font: 23px;
+
+}
+a{
+    font-size: 24px;
+}
+.tio{
+    background-color: grey;
+    position: relative;
+    top: 303px;
+    left: 371px;
+    height: 371px;
+    width: 1157px;
+    text-align: center;
+    font-size: 23px;
+    line-height: normal;
+    border: 5px solid black;
+    border-radius: 48px;
+    border-style: dashed;
+    
+}
+    .bom{
+        position: absolute;
+        top: 195px;
+        left: 512px;
+    }
+    button{
+        position: relative;
+        top: -3px;
+        left: 4px;
+        width: 104px;
+        height: 29px;
+        color:red;
+        background-color: yellow;
+
+    }
+    img{
+        animation-name: go;
+        border-radius: 79px;
+        width: 153px;
+        margin: 6%;
+        height: 147px;
+        background-color: aqua;
+        border: 2px solid yellow;
+        border-style: double;
+        position: absolute;
+        top: -26px;
+        left: 132px;
+        animation-name: hero;
+        animation-duration: 3s;
+        animation-delay: 1s;
+        animation-iteration-count: infinite;
+        
+
+    }
+    @keyframes hero {
+        from{
+            transform: rotate(0deg);
+        }
+        to{
+            transform: rotate(360deg);
+        }
+        
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 17px;
+    }
+   .bb{
+        text-align: center;
+        display: flex;
+        height: 40px;
+        width: 40px;
+        position: absolute; text-align: left;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    margin: -23px;
+    padding: 31px;
+        top: -498px;
+        font-size: large;
+        width: 50px;
+        left: -514px;
+        margin: 40px;
+        padding: 30px;
+        margin-right: 40px;
+
+    }
+  nav,ul{
+        width: 50px;
+        height: 50px;
+        color: white;
+    }
+    .box{
+        text-align: center;
+        color:aqua;
+        margin: 0;
+        padding: 13%;
+        height: 50px;
+        border-radius: 5px;
+    }
+    .bi{
+        position: absolute;
+        top: 50px;
+        left: 40px;
+        font-size: 30px;
+        height: 40px;
+    }
+    /*h2{
+        font-size: 50px;
+        background-color: black;
+        color: red;
+        position: absolute;
+        top: -18px;
+        width: -11px;
+        display: flex;
+        left: 483px;
+        font-style: oblique;
+        animation-name: hi;
+        animation-duration: 8s;
+        animation-delay: 1s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+    }
+    */
+    @keyframes hi {
+        from{
+            width:10vh;
+        }
+        to{
+            width:500vh
+        }
+        
+    }
+    body{
+        background-image:url("miss.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 3398px;
+        width: 500px;
+        animation: slider 15s infinite linear;
+    }
+    @keyframes slider{
+        0%{background-image: url(miss.jpg);}
+        35%{background-image: url("https://www.wfpusa.org/wp-content/uploads/2022/09/WF1512778_20220323_ZWE_Samantha-Reinders_Loreen_Chemhuru_097-1200x788.jpg");}
+        75%{background-image: url("https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/175000/175558/image/5e7c50b26920e.jpeg");}
+        95%{background-image: url("https://missionsbox.org/wp-content/uploads/2020/05/gfa-world-hunger-may-26.jpg");}
+    }
+    h4{
+        position: relative;
+        top: 19px;
+        left: -3px;
+    }
+    .hi{
+        
+        position: absolute;
+        top: 161px;
+        width: 604px;
+        height: 315px;
+        left: 608px;
+        background-color: black;
+        color: white;
+        border: 4px solid yellow;
+        border-style: dotted;
+    }
+
+    h3{
+        text-align: center;
+        font-size: 39px;
+        line-height: normal;
+        text-decoration: dotted;
+        position: absolute;
+        top: 113px;
+    }
+    
+    .gg{
+        height: 50px;
+        width: 50px;
+        position: absolute;
+    }
+    :-ms-input-placeholder{
+        position: absolute;
+        top: 194px;
+        width: 145px;
+    }
+    form{
+        width: 50px;
+        height: 500px;
+        text-align: center;
+        position: absolute;
+        top: 187px;
+        left: 148px;
+    }
+   table,nav,li{
+        
+        display: inline;
+        color: white;
+        font-size: 29px;
+        position: relative;
+        top: 5px;
+        left: -343px;
+        width: 30px;
+        height: 30px;
+        list-style: circle;
+        
+    }
+    .mam{
+        color: white;
+        position: relative;
+        top: 88px;
+        height: 30px;
+        left: 191px;
+        font-size: 29px;
+    }
+    .kk{
+        position: relative;
+        top: 178px;
+        left: 196px;
+        color: white;
+        font-size: 20px;
+    }
+    .ee{
+        size: 40px;
+        font-size: 40px;
+    }
+    .goo{
+        position: relative;
+        top: 50px;
+    }
+    .ttt{
+        position: relative;
+        top: 8px;
+
+        left: 377px;
+        font-size: 16px;
+        line-height: normal;
+    }
+    h6{
+        position: relative;
+        top: -43px;
+        left: 22px;
+    }
+    .op{
+        position: relative;
+        top: auto;
+        left: auto;
+        
+    }
+    .fa-facebook{
+        position: relative;
+  top: 32px;
+  left: -209px;
+  font-size: 21px;
+    }
+    .fa-phone
+    {
+        position: relative;
+        font-size: 21px;
+    }
+    .fa-envelope-open{
+        position: relative;
+        top: 31px;
+        left: 3px;
+        font-size: 16px;
+    }
+    .fa-facebook-f{
+        position: relative;
+        top: -157px;
+        left: -254px;
+        font-size: 35px;
+    }
+    .fa-twitter{
+        position: relative;
+        top: -155px;
+        left: -237px;
+        font-size: 37px;
+    }
+    .fa-youtube{
+        position: relative;
+        top: -155px;
+        left: -226px;
+        font-size: 37px;
+    }
+    .fa-square-instagram
+    {
+        position: relative;
+        top: -155px;
+        left: -210px;
+        font-size: 37px;
+    }
+    .ee{
+        position: relative;
+
+        top: 30px;
+    }
+    .kri{
+        position: relative;
+        top: -1241px;
+        left: 1163px;
+        width: 1163;
+        
+        
+    }
+    .ni{
+        text-align: center;
+        position: relative;
+        top: 4px;
+        left: 495px;
+        color: white;
+        font-size: 27px;
+    }
+    .container{
+      height: 249px;
+      width: 346px;
+      margin: 24px 545px 54px;
+      padding: 79px;
+      text-align: center;
+      position: relative;
+      top: -803px;
+      left: 188px;
+    }
+</style>
+<body>       
+        <div class="ni">
+            <h2>ONE HAND TO OTHERS</h2>
+        </div>
+        <div class="mj">
+            <table>
+                <nav>
+                    <li><a href="mop.html">Home</a></li>
+                  <li><a href="ll.html">Team</a></li>
+                  <li><a href="io.html">Contact</a></li>
+                  <li><a href="baby.html">Donate</a></li>
+                </nav>
+            </table>
+        </div>
+        <div class="mam">
+            <h1>Small Effort Makes Big Changes</h1>
+           
+        </div>
+        <div class="kk">
+            <h5>Volunteers do not necessarily have the time they just have the heart</h5>
+            <a href="l.html"><button>Read More</button></a>
+            <a href="kk.html"><button>video</button></a>
+            <a href="met.html"><button>Buy-Product</button></a>
+        </div>
+        <div class="tio">
+            <h4>Contact us</h4>
+        
+
+        </div>
+        <div class="ttt">
+            <h1>Administrative office</h1><br>
+            <i class="fa-solid fa-phone">+91-9747824352</i>
+            <i class="fa-brands fa-facebook">OHO</i>
+            <i class="fa-sharp fa-regular fa-envelope-open">mail@ohomovement.org</i>
+            <i class="fa-brands fa-facebook-f"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-youtube"></i>
+            <i class="fa-brands fa-square-instagram"></i>
+            
+
+            
+        </div>
+        <div class="tio">
+            <a href="lo.html"><button class="ee">Read More</button></a>
+        </div>
+        <div class="kri">
+            <img src="data:image/png;base64,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" alt="">
+        </div>
+        <div class="nb">
+            <ul>
+                <li><a href="vv.html">HELLO</a></li>
+                <li><a href="nn.html">GO</a></li>
+            </ul>
+        </div>
+        <div class="container">
+  <form target="_blank" action="https://formsubmit.co/51640a3737e2da48ffd7d1711c4c8c68" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+        </div>
+        <div class="col">
+          <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+  </form>
+  </div>
+  <body>
+      
+</div>
+        </div>
+</body>
+</html>

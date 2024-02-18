@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-image: url(yyy.webp);
+        background-repeat: no-repeat;
+        background-size: contain;
+        top: 50px;
+        left: 30px;
+        height: 688px;
+        width: 60px;
+    }
+
+    .io{
+        background-color: azure;
+        color: black;
+        position: relative;
+        top: 50px;
+        left: 597px;
+        height: 40px;
+        width: 156px;
+    }
+    .pp{
+        background-color: white;
+        color: black;
+        position: relative;
+        top: 51px;
+        left: 514px;
+        height: 304px;
+        width: 323px;
+    }
+    .ttt{
+        background-color: white;
+        color: black;
+        position: relative;
+        top: -257px;
+        left: 591px;
+        height: 30px;
+        width: 50px;
+        line-height: 0.5%;
+        border-radius: 3px;
+    }
+    .www{
+        position: relative;
+        background-image: url(uu.webp);
+        top: -341px;
+        left: 28px;
+        height: 240px;
+        width: 378px;
+    }
+    .ios{
+        background-color: greenyellow;
+        position: relative;
+        top: -634px;
+        left: 458px;
+        height: 50px;
+        width: 438px;
+    }
+    .lll{
+        background-color: white;
+        position: relative;
+        top: -633px;
+        left: 458px;
+        height: 388px;
+        width: 56px;
+    }
+    .eee{
+        background-color: white;
+        position: relative;
+        top: -1021px;
+        left: 837px;
+        height: 338px;
+        width: 58px;
+    }
+    .bbb{
+        position: relative;
+        background-color: greenyellow;
+        top: -1021px;
+        left: 458px;
+        height: 50px;
+        width: 440px;
+    }
+    .kop{
+        position: relative;
+        top: -1472px;
+        left: 991px;
+        height: 43px;
+        width: 24px;
+    }
+</style>
+<body>
+    <div class="io">
+        <h1> Contact us</h1>
+    </div>
+    <div class="pp">
+        
+    </div>
+    <div class="ttt">
+        <h2> Name</h2> 
+        <form target="_blank" action="https://formsubmit.co/51640a3737e2da48ffd7d1711c4c8c68" method="POST">
+            <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+        <h2>E-mail</h2>
+        <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        <h2>Queries</h2>
+        <textarea placeholder="Your Message" class="form-control" name="message" rows="5" required></textarea>
+        <a href="kk.html"><button>Submit</button></a>
+        </form>
+        <a href="working website.html"><button>Return</button></a>
+        
+    </div>
+    <div class="www">
+    </div>
+    <div class="ios">
+    </div>
+    <div class="lll">
+
+    </div>
+    <div class="eee">
+
+    </div>
+    <div class="bbb">
+
+    </div>
+    <div class="kop">
+        <img src="yh.jpg" alt="">
+    </div>
+    <div class="bip">
+        <ul>
+            <li><a href="working website.html">Home</a></li>
+            <li><a href="io.html">Team</a></li>
+        </ul>
+    </div>
+</body>
+</html>

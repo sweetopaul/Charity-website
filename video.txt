@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-image: url(sachin.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        top: 50px;
+        height: 1009px;
+        width: 80px;
+        animation: slider 9s linear infinite;
+    }
+    @keyframes slider{
+        0%{background-image: url(sachin.jpg);}
+        35%{background-image: url("https://borgenproject.org/wp-content/uploads/borgen-india.jpg");}
+        75%{background-image: url("https://youthincmag.com/wp-content/uploads/2018/06/poverty.jpg");}
+    }
+</style>
+<body>
+    <video controls autoplay src="ch.mp4"></video>
+</body>
+</html>

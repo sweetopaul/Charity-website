@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-image: url(io.jpg);
+        background-repeat: no-repeat;
+        position: relative;
+        background-size: contain;
+        height: 819px;
+        width: 40px;
+        animation: slider 9s linear infinite;
+    }
+    
+    li{
+        display: inline;
+        top: 30px;
+        left: 30px;
+        width: 30px;
+    }
+    .rio{
+        position: relative;
+        top: -10px;
+        left: -9px;
+        width: 1538px;
+        height: 40px;
+    }
+    .ee{
+        background-color: yellow;
+        color: black;
+        font-style: italic;
+        position: relative;
+        top: 197px;
+        left: 305px;
+        height: 59px;
+        width: 223px;
+        font-size: 39px;
+    }
+    .fio{
+        background-color: red;
+        color: black;
+        position: relative;
+        top: 151px;
+        left: 522px;
+        height: 60px;
+        width: 420px;
+        font-size: 40px;
+        font-style: italic;
+    }
+    .eis{
+        position: relative;
+        background-color: lightblue;
+        color: black;
+        top: 143px;
+        left: 377px;
+        height: 55px;
+        width: 611px;
+        font-size: 34px;
+    }
+    .rrr{
+        background-color: grey;
+        color: white;
+        position: relative;
+        top: 174px;
+        left: -7px;
+        width: 1534px;
+        height: 514px;
+        text-align: center;
+        font-size: 30px;
+        font-style: oblique;
+    }
+    .ios{
+        position: relative;
+        top: -289px;
+        left: 19px;
+        height: 40px;
+        width: 80px;
+    
+    }
+    @keyframes slider{
+        0%{background-image: url(io.jpg);}
+
+    }
+    h2{
+        position: relative;
+        top: -426px;
+        left: 793px;
+        color: white;
+        font-size: 30px;
+    }
+    h4{
+        background-color: gray;
+        position: relative;
+        top: -489px;
+        left: 900px;
+        height: 40px;
+        width: 183px;
+        font-size: 24px;
+        color: white;
+    }
+    .ttt{
+        position: relative;
+        top: 91px;
+        left: 384px;
+        background-color: grey;
+
+    }
+    .io{
+        position: relative;
+        top: -396px;
+        left:1304px;
+        background-color:grey;
+        font-size: 25px;
+        width: 218px;
+        height: 40px;
+        color: white;
+    }
+    ul{
+        padding: 20px;
+    }
+    a{
+        margin: 5px;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        font-size: 27px;
+        top: -19px;
+        left: -15px;
+    }
+    
+</style>
+<body>
+    <div class="rio">
+        <ul>
+            <li><a href="working website.html">Home</a></li>
+            <li><a href="ll.html">Team</a></li>
+            <li><a href="baby.html">Contact</a></li>
+        </ul>
+    </div>
+    <div class="ee">
+        <h3>A good day</h3>
+    </div>
+    <div class="fio">
+        <h3>for a better tomorrow</h3>
+    </div>
+    <div class="eis">
+        <h3>We believe in social transformation</h3>
+    </div>
+    <div class="rrr">
+        <h3>They are the diamonds in rough,
+            Lets shape and polish
+        </h3>
+    </div>
+    <div class="ios">
+        <img src="jui.webp" radius>
+        <h2>Vision:</h2>
+        <h4>Developing the next generation,visionary leaders with Character and Comppetence to follow their purpose andestablish the kingdom of God </h4>
+    </div>
+    <div class="ttt">
+        <h2>Mission:</h2>
+       
+    </div>
+    <div class="io">
+ <h3>To help maximum number of people and reduce poverty ratio in our country</h3>
+ </div>
+
+</body>
+</html>

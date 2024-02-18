@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body{
+            background-image: url(jif.jpg);
+            background-repeat: no-repeat;
+            background-size: contain;
+            position: relative;
+            top: 50px;
+            left: 30px;
+            width: 40px;
+            height: 1009px;
+        }
+        
+li{
+    float: right;
+    
+    list-style: none;
+    
+
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    padding: 6px;
+    position: relative;
+    top: 9%;
+    left: -1329px;
+    font-size: 20px;
+}
+    .yio{
+        
+        color: white;
+        position: relative;
+        top: -58px;
+        left: -38px;
+        height: 50px;
+        width: 1537px;
+    }
+    .jio{
+        position: relative;
+        top: 0px;
+        left: 510px;
+        background-color: aqua;
+        color: white;
+        width: 520px;
+        height: 71px;
+        font-size: 30px;
+        border-radius: 6px;
+        animation: slider 9s linear infinite;
+
+    }
+    @keyframes slider{
+        0%{background-color: aqua;}
+        35%{background-color: red;}
+        75%{background-color: yellow;}
+        95%{border-color: chocolate;}
+    }
+    img{
+        border-radius: 79px;
+        width: 153px;
+        margin: 6%;
+        height: 147px;
+        border-style: double;
+        position: absolute;
+        top: -26px;
+        left: 4px;
+        
+    }
+    .hio{
+        background-color: aqua;
+        color: black;
+        position: relative;
+        top: 76px;
+        width: 1161px;
+        left: 208px;
+        height: 445px;
+        text-align: center;
+        border: 4px solid black;
+        border-radius: 52px;
+    }
+    .pop{
+        position: relative;
+        top: -182px;
+        left: 262px;
+        height: 50px;
+        width: 215px;
+        background-color: aqua;
+        color: black;
+        line-height: 0.5%;
+    }
+    .ooo{
+        position: relative;
+        top: -379px;
+        left: 553px;
+        height: 40px;
+        width: 40px;
+    }
+    .lio{
+        position: relative;
+        top: -291px;
+        left: 558px;
+        background-color: aqua;
+        color: black;
+        height: 40px;
+        width: 260px;
+        line-height: 0.5%;
+    }
+    .lop{
+        position: relative;
+        top: -474px;
+        left: 842px;
+    }
+    .mij{
+        position: relative;
+        top: -352px;
+        left: 842px;
+        width:241px;
+        height: 40px;
+        line-height: 0.5%;
+        color: black;
+    }
+    .uuu{
+        position: relative;
+        top: -541px;
+        left: 1149px;
+
+    }
+    .bbb{
+        position: relative;
+        top: -410px;
+        background-color: aqua;
+        width: 221px;
+        height: 60px;
+        left: 1126px;
+        line-height: 0.5%;
+    }
+    .rep{
+        top: 50px;
+        left: 30px;
+    }
+    </style>
+    <div class="yio">
+        
+            <ul>
+                <li><a href="baby.html">Donate</a></li>
+              <li><a href="io.html">Contact</a></li>
+              <li><a href="working website.html">Home</a></li>
+    </ul>
+        
+    </div>
+    <div class="jio">
+        <h1>Meet our members</h1>
+    </div>
+    <div class="hio">
+        <img src="go.jpg" style="border-radius:100%">
+    </div>
+    <div class="pop">
+        <h2>Name:Sweeto Pauly</h2>
+        <h2>Team Leader</h2>
+        <h2>Contact:+91-9747824352</h2>
+
+    </div>
+    <div class="ooo">
+        <img src="hij.jpeg" style="border-radius: 100%">
+    </div>
+    <div class="lio">
+        <h2>Name:Sibi Kk</h2>
+        <h2>Co-leader</h2>
+        <h2>Contact:+91-7896342101</h2>
+    </div>
+    <div class="lop">
+        <img src="ui.jpg" style="border-radius: 100%">
+    </div>
+    <div class="mij">
+        <h2>Name:Adhitya Krishna</h2>
+        <h2>Co-Leader</h2>
+        <h2>Contact:+91-0987654323</h2>
+    </div>
+    <div class="uuu">
+        <img src="mes.jpg" style="border-radius: 100%">
+    </div>
+    <div class="bbb">
+        <h2>Name:Indralal shaiju</h2>
+        <h2>Co-Leader</h2>
+        <h2>Contact:+91-976201209</h2>
+    </div>
+    
+</body>
+</html>
